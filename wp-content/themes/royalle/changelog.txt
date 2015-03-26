@@ -1,0 +1,41 @@
+*** Royalle Changelog ***
+
+2010.07.05 - version 1.3
+ * header.php - added text title option (#logo section)
+ * style.css - added text title option (#logo section)
+ * includes/theme-options.php - added text title option
+
+2010.06.28 - version 1.2.1
+ * style.css - Fixed Gravity forms styling bug
+
+2010.06.21 - version 1.2.0
+ * header.php - Added theme support for WordPress 3.0 Menu Management
+ * sidebar.php - Added theme support for WordPress 3.0 Menu Management
+ * /includes/theme-functions.php - Added theme support for WordPress 3.0 Menu Management
+ 
+2010.06.13 - version 1.1.4
+ * style.css - Added styling for Gravity forms
+
+2010.05.26 - version 1.1.3
+ * header.php - fixed &depth of woo custom nav to allow dropdown in menu
+
+2010.05.03 - version 1.1.2
+ * comments.php - Fixed pinback bug
+
+2010.04.28 - version 1.1.1
+ * header.php Ð Added WooNav support (Woo Menu 1)
+ * sidebar.php Ð Added WooNav support (Woo Menu 2)
+ * search.php - Sanitized search query return
+
+2010.04.07 - version 1.1.0
+ * /functions/* - MAJOR UPDATE - Framework V.2.7.0
+ * header.php  - Added SEO tags, woo_title(); & woo_meta();
+ * functions.php - Changed layout for loading required files.
+ 
+2010.03.29 - Version 1.0.1
+  * includes/theme-comments.php - Added pingbacks
+  * comments.php - Added pingbacks
+  * style.css - Pingback styling
+
+2009.xx.xx - version 1.0
+ * First release!

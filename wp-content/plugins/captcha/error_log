@@ -1,0 +1,5 @@
+[16-May-2014 17:48:29] PHP Fatal error:  Call to undefined function  add_action() in /home/clarityi/public_html/wp-content/plugins/captcha/bws_menu/bws_menu.php on line 1018
+[25-Aug-2014 18:44:05] PHP Fatal error:  Call to undefined function  add_action() in /home/clarityi/public_html/wp-content/plugins/captcha/bws_menu/bws_menu.php on line 1018
+[13-Oct-2014 20:07:18 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/clarityi/public_html/wp-content/plugins/captcha/bws_menu/bws_menu.php on line 1018
+[26-Dec-2014 22:12:11 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/clarityi/public_html/wp-content/plugins/captcha/bws_menu/bws_menu.php on line 1018
+[17-Feb-2015 07:52:17 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/clarityi/public_html/wp-content/plugins/captcha/bws_menu/bws_menu.php on line 1018

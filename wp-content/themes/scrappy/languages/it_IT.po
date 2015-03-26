@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scrappy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-20 10:42-0500\n"
+"PO-Revision-Date: 2012-02-20 10:42-0500\n"
+"Last-Translator: Gabriel Rolland <rollopack@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ../languages/\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Questo post è protetto da password. Inserire la password per visualizzare gli eventuali commenti."
+
+#: ../comments.php:18
+msgid "No Responses"
+msgstr "Nessuna risposta"
+
+#: ../comments.php:18
+msgid "One Response"
+msgstr "Una risposta"
+
+#: ../comments.php:18
+msgid "Responses"
+msgstr "Risposte"
+
+#: ../comments.php:18
+msgid "to"
+msgstr "a"
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: ../footer.php:14
+msgid "Scrappy Theme by Caroline Moore"
+msgstr ""
+
+#: ../footer.php:15
+msgid "Copyright"
+msgstr ""
+
+#: ../footer.php:16
+msgid "Powered by"
+msgstr ""
+
+#: ../footer.php:16
+msgid "WordPress"
+msgstr ""
+
+#: ../functions.php:9
+#: ../sidebar.php:8
+msgid "Right Sidebar"
+msgstr "Barra laterale destra"
+
+#: ../functions.php:18
+#: ../sidebar-footer1.php:8
+msgid "Footer Sidebar 1"
+msgstr "Piè di pagina 1"
+
+#: ../functions.php:27
+#: ../sidebar-footer2.php:8
+msgid "Footer Sidebar 2"
+msgstr "Piè di pagina 2"
+
+#: ../functions.php:36
+#: ../sidebar-footer3.php:8
+msgid "Footer Sidebar 3"
+msgstr "Piè di pagina 3"
+
+#: ../functions.php:48
+msgid "Header Navigation Menu"
+msgstr "Navigazione header"
+
+#: ../index.php:12
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivi giornalieri: %s"
+
+#: ../index.php:14
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivi mensili: %s"
+
+#: ../index.php:16
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivi annuali:"
+
+#: ../index.php:18
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archivio delle categorie: %s"
+
+#: ../index.php:20
+#, php-format
+msgid "You searched for: %s"
+msgstr "Hai cercato: %s"
+
+#: ../index.php:22
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archivio dei tag: %s"
+
+#: ../index.php:30
+#: ../index.php:45
+#: ../single.php:20
+#: ../single.php:36
+msgid "Permanent Link to"
+msgstr "Permalink a"
+
+#: ../index.php:36
+#: ../page-nosidebar.php:13
+#: ../page.php:12
+#: ../single.php:27
+msgid "Edit"
+msgstr "Edit"
+
+#: ../index.php:47
+#: ../single.php:38
+msgid "by"
+msgstr ""
+
+#: ../index.php:49
+#: ../page-nosidebar.php:20
+#: ../page.php:19
+#: ../single.php:40
+msgid "Read the rest of this entry"
+msgstr "Continua a leggere"
+
+#: ../index.php:50
+#: ../page-nosidebar.php:21
+#: ../page.php:20
+#: ../single.php:42
+msgid "Pages:"
+msgstr "Pagine"
+
+#: ../index.php:53
+#: ../single.php:47
+msgid "Categories:"
+msgstr "Categorie"
+
+#: ../index.php:54
+#: ../single.php:48
+msgid "No Comments"
+msgstr "Nessun commento"
+
+#: ../index.php:54
+#: ../single.php:48
+msgid "Comment"
+msgstr "Commento"
+
+#: ../index.php:54
+#: ../single.php:48
+msgid "Comments"
+msgstr "Commenti"
+
+#: ../index.php:64
+msgid "Older Entries"
+msgstr "Articoli più vecchi"
+
+#: ../index.php:65
+msgid "Newer Entries"
+msgstr "Articoli più recenti"
+
+#: ../index.php:70
+#: ../single.php:58
+msgid "Not Found"
+msgstr "Non trovato"
+
+#: ../index.php:71
+#: ../single.php:59
+msgid "Sorry, no posts matched your criteria."
+msgstr "Siamo spiacenti ma non è disponibile alcun elemento corrispondente ai criteri di ricerca inseriti"
+
+#: ../page-nosidebar.php:24
+msgid "Edit this entry"
+msgstr "Modifica questa voce"
+
+#: ../searchform.php:8
+msgid "Search:"
+msgstr "Cerca"
+
+#: ../searchform.php:10
+msgid "Go"
+msgstr ""
+
+#: ../sidebar.php:10
+msgid "Pages"
+msgstr "Pagine"
+
+#: ../sidebar.php:16
+msgid "Archives"
+msgstr "Archivio"
+
+#: ../sidebar.php:22
+msgid "Meta"
+msgstr ""
+
+#: ../single.php:44
+msgid "Tags:"
+msgstr ""
+

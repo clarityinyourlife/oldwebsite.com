@@ -1,0 +1,170 @@
+body {
+	background-color: #FFFFFF;
+	color:  #333333;
+}
+
+a, a:active {
+	color:  #0088CC;
+}
+a:hover {
+	color:  #005580;
+}
+
+
+/* navbar overrides */
+.navbar {
+  color: #777777;
+}
+.navbar-inner {
+  background-color: #FFFFFF;
+  background-image: -moz-linear-gradient(top, #FFFFFF, #E2E2E2);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FFFFFF), to(#E2E2E2));
+  background-image: -webkit-linear-gradient(top, #FFFFFF, #E2E2E2);
+  background-image: -o-linear-gradient(top, #FFFFFF, #E2E2E2);
+  background-image: linear-gradient(to bottom, #FFFFFF, #E2E2E2);
+  background-repeat: repeat-x;
+  border-color: #B2B2B2;
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#E2E2E2', GradientType=0);
+}
+.navbar .brand {
+  color: #777777;
+  text-shadow: 0 1px 0 #FFFFFF;
+}
+.navbar-link {
+  color: #777777;
+}
+.navbar-link:hover {
+  color: #434343;
+}
+.navbar .divider-vertical {
+  border-right: 1px solid #FFFFFF;
+  border-left: 1px solid #E2E2E2;
+}
+.navbar .nav > li > a {
+  color: #777777;
+  text-shadow: 0 1px 0 #FFFFFF;
+}
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+  color: #505050; 
+}
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  color: #777777;
+  background-color: #CCCCCC;
+}
+.navbar .nav li.dropdown.open > .dropdown-toggle,
+.navbar .nav li.dropdown.active > .dropdown-toggle,
+.navbar .nav li.dropdown.open.active > .dropdown-toggle {
+  color: #5D5D5D;
+  background-color: #CCCCCC;
+}
+.navbar .nav li.dropdown > .dropdown-toggle .caret {
+  border-top-color: #777777;
+  border-bottom-color: #777777;
+}
+
+.navbar .nav li.dropdown.open > .dropdown-toggle .caret,
+.navbar .nav li.dropdown.active > .dropdown-toggle .caret,
+.navbar .nav li.dropdown.open.active > .dropdown-toggle .caret {
+  border-top-color: #5D5D5D;
+  border-bottom-color: #5D5D5D;
+}
+
+.navbar .btn-navbar {
+  background-color: #E2E2E2;
+  *background-color: #E2E2E2;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FFFFFF), to(#E2E2E2));
+  background-image: -webkit-linear-gradient(top, #FFFFFF, #E2E2E2);
+  background-image: -o-linear-gradient(top, #FFFFFF, #E2E2E2);
+  background-image: linear-gradient(to bottom, #FFFFFF, #E2E2E2);
+  background-image: -moz-linear-gradient(top, #FFFFFF, #E2E2E2);
+  background-repeat: repeat-x;
+  border-color: #E2E2E2 #E2E2E2 #D1D1D1;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#E2E2E2', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+}
+
+.navbar .btn-navbar:hover,
+.navbar .btn-navbar:active,
+.navbar .btn-navbar.active,
+.navbar .btn-navbar.disabled,
+.navbar .btn-navbar[disabled] {
+  color: #777777;
+  background-color: #E2E2E2;
+  *background-color: #E2E2E2;
+}
+
+.navbar .btn-navbar:active,
+.navbar .btn-navbar.active {
+  background-color: #CCCCCC \9;
+}
+
+.navbar .btn-navbar .icon-bar {
+  background-color: #FFFFFF;
+}
+
+/* well */
+.well {
+  background-color: #F5F5F5;
+  border: 1px solid #C2C2C2;
+}
+
+/* hero unit */
+.hero-unit {
+  background-color: #EEEEEE;
+}
+
+/* popovers */
+.popover-inner {
+	color:  #333333;
+}
+
+/* dropdown menu */
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a {
+  background-color: #0088CC;
+  background-image: -moz-linear-gradient(top, #0088CC, #006EB2);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088CC), to(#006EB2));
+  background-image: -webkit-linear-gradient(top, #0088CC, #006EB2);
+  background-image: -o-linear-gradient(top, #0088CC, #006EB2);
+  background-image: linear-gradient(to bottom, #0088CC, #006EB2);
+  background-repeat: repeat-x;
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#0088CC', endColorstr='#006EB2', GradientType=0);
+}
+
+@media (max-width: 979px) {
+
+	/* dropdown menu - collapsed */
+	.nav-collapse .nav .dropdown .dropdown-menu li > a:hover,
+	.nav-collapse .dropdown-menu li > a:focus,
+	.nav-collapse .dropdown-submenu:hover > a {
+	  background-image: none;
+	  color: #5D5D5D;
+	  background-color: #CCCCCC;
+	}
+	
+	.nav-collapse .nav > li > a,
+	.nav-collapse .dropdown-menu a {
+		color: #5D5D5D;
+	}
+	
+	.nav-collapse .nav > li > a:hover,
+	.nav-collapse .dropdown-menu a:hover {
+		color: #5D5D5D;
+		background-color: #CCCCCC;
+	}
+	
+	.dropdown-submenu>a:after {
+		border-left-color:#5D5D5D;
+	}
+	.dropdown-submenu:hover>a:after{
+		border-left-color:#5D5D5D;
+	}
+  
+}
+
+

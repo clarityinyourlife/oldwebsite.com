@@ -1,0 +1,6 @@
+img {border: 0;}
+#pageTopWrapper {position: relative;top: auto;}
+#breadcrumbContainer ul {filter: none;}
+#footerWrapper {position: relative;bottom: auto;}
+#footerBottomShadow {display: none;}
+.movie-thumbnail-frame img {margin-bottom: 0;}

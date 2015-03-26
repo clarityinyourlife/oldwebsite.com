@@ -1,0 +1,241 @@
+body  {
+	background: #c8cdd0 url(caramel/bg.jpg) repeat-x top left;
+}
+
+h1, h2, h3, h4, h5, h6  {
+	color: #000;
+}
+
+a:link, a:visited  {
+	color: #785f4c;
+}
+
+/* STRUCTURE */
+
+#wrap {
+
+}
+
+#header  {
+	background: #fff url(caramel/header.jpg) repeat-x top left;
+	border-bottom: 7px solid #f1ece1;
+}
+
+#header h1.title a  {
+	color: #000;
+}
+
+#header p.description  {
+	color: #785f4c;
+}
+
+#rss  {
+	background-color: #785f4c;
+}
+
+#rss a  {
+	color: #fff;
+}
+
+#featured  {
+	background: #d1c19d url(caramel/featuredbg.jpg) repeat-x top left;
+}
+
+#featured .buttons a.prev  {
+	background: url(caramel/prev.jpg) no-repeat top left;
+}
+
+#featured .buttons a.next  {
+	background: url(caramel/next.jpg) no-repeat top left;
+}
+
+#steps  {
+	background: #4093ce url(caramel/stepsbg.jpg) repeat-x top left;
+}
+
+#steps ul li a  {
+	color: #fff;
+}
+
+#content  {
+	border-top: 7px solid #f1ece1;
+	border-bottom: 7px solid #f1ece1;
+	background-color: #fff;
+}
+
+#content .moreinfo  {
+	border: 1px solid #d2c3a0;
+	background-color: #fef7e7;
+	color: #000;
+}
+
+#content .moreinfo h3  {
+	color: #000;	
+}
+
+#content .moreinfo .more a  {
+	color: #1a0902;
+	background: url(caramel/moreinfo.jpg) no-repeat center left;
+}
+
+#news  {
+	color: #75818a;
+}
+
+#news h3  {
+	color: #000;
+}
+
+#news ul li a  {
+	color: #1a0902;
+}
+
+#news p.more a  {
+	color: #75818a;
+}
+
+#bottom  {
+	background: #d1c19d url(caramel/bottombg.jpg) repeat-x top left;
+}
+
+#newsletter input.text  {
+	background-color: #ede6d8;
+}
+
+#footer  {
+	background: #9fc9e6 url(caramel/footerbg.jpg) repeat-x top left;
+	color: #fff;
+}
+
+#footer p a  {
+	color: #fff;
+}
+
+/* NAVIGATION */
+
+#nav ul li a:link, #nav ul li a:visited  {
+	color: #000;
+}
+
+/* BLOG CSS */
+
+.post .categories  {
+	background-color: #1a0902;
+	color: #fff;
+}
+
+.post .categories a  {
+	color: #fff;
+}
+
+.post h2.title .date a  {
+	color: #d1c19d;
+}
+
+.post h2.title a  {
+	color: #000;
+}
+
+.post p.comments a  {
+	background: url(caramel/comments.jpg) no-repeat center left;
+	color: #000;
+}
+
+p.continue a  {
+	color: #785f4c;
+}
+
+#postad  {
+	background-color: #f1efed;
+}
+
+a.adlink  {
+	color: #000;
+}
+.asidespost  {
+	border-left: 3px solid #1a0902;
+}
+
+#sidebar img.bigad  {
+	border: 2px solid #301e16;
+}
+
+#tabbox  {
+	border: 1px solid #36251d;
+}
+
+#tabbox ul.idTabs  {
+	background: #e1dcd8;
+}
+
+#tabbox ul.idTabs li a:link, #tabbox ul.idTabs li a:visited  {
+	color: #000;
+}
+
+#tabbox ul.idTabs li a.selected  {
+	color: #fff;
+	background: #8bc62d url(caramel/selectedtab.jpg) repeat center center;
+}
+
+#boxes ul  {
+	background: #fff;
+}
+
+#boxes ul li {
+	background: url(caramel/tablibg.jpg) no-repeat top left;
+}
+
+#boxes ul li:first-child  {
+	background: none;
+}
+
+#boxes ul li a:link, #boxes ul li a:visited   {
+	color: #000;
+}
+
+#leftwidget  {
+	border-right: 1px solid #dedede;
+}
+
+.widgetlist  h3  {
+	background: url(caramel/widgethead.jpg) no-repeat center left;
+	color: #fff;
+}
+
+.widgetlist ul li  {
+	border-bottom: 1px solid #f0f0f0;
+}
+
+.widgetlist ul li a:link, .widgetlist ul li a:visited  {
+	color: #000;
+}
+.commentlist {
+	border-top: 2px solid #E8DEC8;
+}
+.commentlist li {
+	border-bottom: 2px solid #E8DEC8;
+}
+.commentlist .alt {
+	background: #F1ECE1;
+}
+#commentform input {
+	background: #F1ECE1;
+	border: 1px solid #E8DEC8;
+}
+#commentform textarea {
+	background: #F1ECE1;
+	border: 1px solid #E8DEC8;
+}
+/* DROP DOWN PAGE NAVIGATION */
+
+#pagenav li ul li {
+	background: #F1ECE1;
+	border: 1px solid #E8DEC8;
+}
+
+/* GRAVITY FORMS */
+
+.gform_wrapper .top_label input.large, .gform_wrapper .top_label select.large, .gform_wrapper .top_label textarea.textarea, .gform_wrapper input {
+	background: #F1ECE1;
+	border: 1px solid #E8DEC8;
+}

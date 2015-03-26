@@ -1,0 +1,174 @@
+*** VibrantCMS Changelog ***
+
+2011.04.29 - version 2.6
+ * sidebar.php, layouts/default.php, includes/sidebar-init.php - Fixed sidebars to work with SBM
+
+2011.02.23 - version 2.5.2
+ * footer.php - If no Extended footer select, no pages will display
+ * includes/theme-options.php - Added option to disable the Extended Footer
+
+2010.11.21 - version 2.5.1
+ * includes/theme-functions.php - added support for WP Menus second menu
+ * 404.php - added support for WP Menus second menu
+ * template-fullwidth.php - added support for WP Menus second menu
+ * template-sitemap.php - added support for WP Menus second menu
+ * template-archives.php - added support for WP Menus second menu
+ * single.php - added support for WP Menus second menu
+ * page.php - added support for WP Menus second menu 
+
+2010.08.13 - version 2.5.0
+ * 404.php - Added secondary NAV code
+ * archive.php - Added secondary NAV code
+ * page.php - Added secondary NAV code
+ * single.php - Added secondary NAV code
+ * style.css - Updated margin on secondary Nav
+ * template-archives.php - Added secondary NAV code
+ * template-fullwidth.php - Added secondary NAV code
+ * template-sitemap.php - Added secondary NAV code
+
+2010.06.28 - version 2.4.1
+ * style.css - Fixed Gravity forms styling bug
+
+2010.06.22 - version 2.4.0
+ * header.php - Added theme support for WordPress 3.0 Menu Management
+ * /includes/theme-functions.php - Added theme support for WordPress 3.0 Menu Management
+ 
+2010.06.09 - version 2.3
+ * style.css - Added styling for Gravity forms
+ * /styles/*.css  - Added styling for Gravity forms
+
+2010.04.28 Ð version 2.2
+ * /functions/* Ð MAJOR UPDATE Ð Framework V.2.7.8
+ * header.php Ð Added SEO tags, woo_title(); & woo_meta(); Also added WooNav support
+ * functions.php Ð Changed layout for loading required files.
+ * search.php - Sanitized search query return
+
+2009.10.29 - version 2.1.2
+ * template-archives.php - Added archives page template
+ * template-sitemap.php - Added sitemap page template
+ * template-fullwidth.php - Added full width page template
+
+2009.09.10 - version 2.1.1
+
+ * /includes/theme-options.php - Updated woo_metaboxes image upload facility (line 217 to 224)
+
+2009.09.08 - version 2.1
+
+ * /functions/* - Core Framework 1.0.9
+ * /lang/vibrantcms.po - Added language file. See: http://www.woothemes.com/2009/08/how-to-translate-a-theme/
+ * Added gettext functions to template php files to support localization.
+
+2009.08.14 - version 2.0.5
+  * /includes/theme-options.php - Fixed the Featured Steps option bug
+
+2009.08.04 - version 2.0.4
+  * /functions/ - Upgraded framework to V.1.0.5
+
+2009.08.04 - version 2.0.3
+  * /functions/ - Upgraded framework to V.1.0.4a
+
+2009.08.01 - version 2.0.2
+  * sidebar.php - fixed woo_tabber (line 6)
+  * ads/ads-328x280.php - fixed woo_show_mpu (line 01)
+  * ads/ads-468x60.php - fixed woo_show_ad (line 03)
+
+2009.07.27 - version 2.0.1
+  * /functions/ - Core framework upgrade to V.1.0.4
+  * /includes/theme-options.php - Added Custom CSS backend option
+  * /includes/theme-functions.php - Removed duplicate get_page_id() function
+
+2009.07.23 - version 2.0.0
+  * /functions/ - New WooThemes Framework (core theme functions)
+     functions.php
+  * home.php - Removed, no defaults to index.php instead
+  * includes/featured.php - Renamed to featured-slider.php
+  * layouts/1-default.php - Renamed to default.php
+  * layouts/2-blog.php - Renamed to blog.php  
+  * includes/sidebar-init.php - Added additional homepage sidebar (for magazine layout)
+  * includes/theme-comments.php - Moved from /functions/
+     includes/theme-functions.php
+     includes/theme-js.php
+     includes/theme-options.php
+     includes/theme-widgets.php
+  * includes/theme-options.php - Added new options for navigation and tweaked some older options
+  * includes/theme-widgets.php - Fixed broken widgets
+  * header.php - Removed js includes & tweaked page / category navigation
+  * footer.php - Fixed query_posts includes
+  * includes/popular.php - Included in theme-functions.php
+    includes/comments.php
+    includes/categories.php
+  * sidebar.php - Changed references to /includes/popular.php & /includes/comments.php
+
+2009.06.08 - version 1.3.5
+   * header.php - Added conditional stylesheet code for IE7 & IE8
+   * /css/ie7.css - Created ie7.css for conditional IE7 AND IE8 code
+
+2009.03.24 - version 1.3.4
+   * functions.php - added fix to wp_print_scripts() so it doesn't load in WP-admin
+   * header.php - removed js loading below wp_head()
+
+2009.03.19 - version 1.3.3
+   * functions.php - Added "comment is waiting to be approved" to comments loop
+
+2009.01.28 - version 1.3.2
+   * functions/admin-options.php - Added functionality to exclude pages from top navigation
+      functions/admin-setup.php
+   * includes/js/suckerfish.js - Added drop down menu's to page navigation
+      header.php
+      style.css
+      styles/*.css
+
+2009.01.19 - version 1.3.1
+   * includes/widgets.php - Fixed bug with more info box widgets on homepage
+
+2009.01.19 - version 1.3
+   * functions.php - Upgraded functions.php backend
+     functions/admin-options.php
+     functions/admin-panel.php
+     functions/admin-setup.php
+     functions/admin-style.css
+   * header.php - Widgetized homepage layout
+     includes/widgets.php
+     layouts/1-default.php
+
+2008.12.28 - version 1.2
+	* comments.php - Threaded comments
+	  comments-legacy.php
+	  header.php 
+	  functions.php
+	  style.css (marked /* threaded comments */)
+	* style.css - Fixed IE6/7 lists (#boxed *)
+
+2008.10.09 - version 1.1.3
+  * functions/custom.php - Fixed bug with update of custom fields
+
+2008.10.02 - version 1.1.2
+  * functions.php - Changed post_title to post_name
+
+2008.08.21 - Version 1.1.1
+  * functions.php - Fixed default settings
+
+2008.08.07 - Version 1.1
+
+  * changelog.txt - Added changelog and revised version number
+  * includes/easytube.php - Added easytube integrated
+  * includes/test.php - Added phpinfo() file for debugging resizer on buggy hosts
+  * includes/popular.php - Display popular posts in sidebar.php
+  * includes/comments.php - Display recent comments in sidebarh.php
+  * functions/custom.php - Custom settings panel in WP post window
+  * sidebar.php - Changed tabs to use popular.php and comments.php
+  * sidebar.php - Changed flickr script
+  * style.css - Fix float on .flicrk img
+  * header.php - fixed <? to <?php 
+  * includes/featured.php - #featureditem -> .featureditem
+  * style.css - #featureditem -> .featureditem
+  * header.php - Added depth=1 to top page menu
+  * includes/ads-management.php - Fixed randomizer
+  * footer.php - Stripslashes on google analytics
+  * footer.php - WooThemes credit logo
+  * screenshot.png - New screenshot  
+  * functions.php - .mainrow border-bottom: 1px solid #D4E9FA !important;
+  * functions.php - Added flickr options
+  * functions.php - Added pages dropdown to archive
+  * functions.php - Fixed google analytics slashes when saving
+  * functions.php - No <br/> before description of checkboxes

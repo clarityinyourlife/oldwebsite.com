@@ -1,0 +1,1 @@
+$qube(function() { $qube('#menuWrapper').css({width: $qube('#menu ul').width()+1, margin: '0 auto', padding: '10px 0', float: 'none'}); });

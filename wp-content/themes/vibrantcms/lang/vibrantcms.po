@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: vibrantcms/comments.php:19
+msgid "% Responses"
+msgstr ""
+
+#. Text in function
+#: vibrantcms/search.php:11
+msgid "%s"
+msgstr ""
+
+#. Text in function
+#: vibrantcms/comments.php:69
+#: vibrantcms/comments.php:72
+#: vibrantcms/comments-legacy.php:128
+#: vibrantcms/comments-legacy.php:131
+msgid "(required)"
+msgstr ""
+
+#. Text in function
+#: vibrantcms/includes/theme-comments.php:20
+msgid "<p class='unapproved'>Your comment is awaiting moderation.</p>\\n"
+msgstr ""
+
+#. Text in function
+#: vibrantcms/layouts/blog.php:33
+#: vibrantcms/archive.php:37
+msgid "Add Your Comment! % Comments Already..."
+msgstr ""
+
+#. Text in function
+#: vibrantcms/layouts/blog.php:33
+#: vibrantcms/archive.php:37
+msgid "Add Your Comment! 0 Comments Already..."
+msgstr ""
+
+#. Text in function
+#: vibrantcms/layouts/blog.php:33
+#: vibrantcms/archive.php:37
+msgid "Add Your Comment! 1 Comment Already..."
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/header.php:11
+#: vibrantcms/header.php:12
+msgid "Archive"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/header.php:8
+msgid "Author Archives"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/includes/featured-slider.php:69
+msgid "Click for next"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/includes/featured-slider.php:68
+msgid "Click for previous"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/sidebar.php:12
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments-legacy.php:37
+msgid "Comments For This Post"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:38
+#: vibrantcms/comments-legacy.php:105
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/includes/theme-widgets.php:10
+msgid "Company / Product News"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/footer.php:42
+msgid "Copyright"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/includes/theme-comments.php:15
+msgid "Direct link to this comment"
+msgstr ""
+
+#. Text in function
+#: vibrantcms/includes/theme-comments.php:15
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/header.php:80
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: vibrantcms/comments.php:50
+#: vibrantcms/comments-legacy.php:113
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: vibrantcms/comments.php:50
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:64
+#: vibrantcms/comments-legacy.php:123
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:64
+msgid "Logged in as"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:64
+#: vibrantcms/comments-legacy.php:123
+msgid "Logout &raquo;"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:72
+#: vibrantcms/comments-legacy.php:131
+msgid "Mail (will not be published)"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:69
+#: vibrantcms/comments-legacy.php:128
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: vibrantcms/page.php:42
+#: vibrantcms/tag.php:37
+#: vibrantcms/layouts/blog.php:61
+#: vibrantcms/search.php:37
+#: vibrantcms/archive.php:73
+msgid "Newer Entries"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/includes/featured-slider.php:69
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: vibrantcms/comments.php:19
+msgid "No Responses"
+msgstr ""
+
+#. Text in function
+#: vibrantcms/comments.php:19
+msgid "One Response"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/404.php:21
+msgid "Page Not Found!"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/page.php:27
+#: vibrantcms/tag.php:19
+#: vibrantcms/layouts/blog.php:45
+#: vibrantcms/single.php:29
+#: vibrantcms/search.php:19
+#: vibrantcms/includes/theme-widgets.php:21
+#: vibrantcms/archive.php:49
+msgid "Permanent Link to"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/sidebar.php:11
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/includes/featured-slider.php:68
+msgid "Prev"
+msgstr ""
+
+#. Text in function
+#: vibrantcms/page.php:41
+#: vibrantcms/tag.php:36
+#: vibrantcms/layouts/blog.php:60
+#: vibrantcms/search.php:36
+#: vibrantcms/archive.php:72
+msgid "Previous Entries"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/includes/theme-widgets.php:27
+msgid "Read More"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/header.php:7
+msgid "Search Results"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/search.php:11
+msgid "Search Results for"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/404.php:22
+msgid "Sorry, but the page you were looking for is not here."
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/header.php:74
+msgid "Stay updated on our news"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:83
+#: vibrantcms/comments-legacy.php:142
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/includes/theme-widgets.php:12
+#: vibrantcms/header.php:74
+msgid "Subscribe to our RSS feed"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/tag.php:11
+#: vibrantcms/header.php:13
+msgid "Tag Archive"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:7
+#: vibrantcms/comments-legacy.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments-legacy.php:72
+msgid "Trackbacks For This Post"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:75
+#: vibrantcms/comments-legacy.php:134
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:57
+#: vibrantcms/comments-legacy.php:116
+msgid "You must be"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/footer.php:42
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:57
+#: vibrantcms/comments-legacy.php:116
+msgid "logged in"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:19
+msgid "to &#8220;"
+msgstr ""
+
+#. Text in echo
+#: vibrantcms/comments.php:57
+#: vibrantcms/comments-legacy.php:116
+msgid "to post a comment."
+msgstr ""

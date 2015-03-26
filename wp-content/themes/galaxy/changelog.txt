@@ -1,0 +1,14 @@
+= 1.1 [2012.09.29] =
+
+* wp_get_theme() has been used instead get_theme_data() with backward compatibility. get_theme_data() has been deprecated since version 3.4.
+* wp_get_theme() has been used instead get_current_theme() with backward compatibility. get_current_theme() has been deprecated since version 3.4.
+* get_current_screen()->add_help_tab() has been used instead add_contextual_help which is deprecated since version 3.3.
+* Galaxy Admin Scripts/Styles has been properly hooked to the Canyon Options Page Only.
+* add_theme_support( 'custom-background' ) has been used instead add_custom_background() with backward compatibility. add_custom_background() has been deprecated since version 3.4.
+* add_theme_support( 'custom-header', $args ) has been used instead add_custom_image_header () with backward compatibility. add_custom_image_header () has been deprecated since version 3.4.
+* Pagination support for Post Type: Gallery
+* Some important fixes in the code i.e. PHP and CSS files
+
+= 1.0 [2012.04.27] =
+
+* Initial Release.

@@ -1,0 +1,50 @@
+#news  {
+	float: left;
+}
+
+#from-the-blog  {
+	margin-top: -40px;
+	float: left;
+	position: relative;
+	z-index: 9999;
+}
+
+#recent-news  {
+	margin-top: -40px;
+	float: left;
+	position: relative;
+	z-index: 9999;
+}
+	
+.post-top  {
+	margin-bottom: -5px;
+}
+
+#breadcrumbs  {
+	display: inline;
+}
+
+#content-repeat  {
+	float: left;
+}
+
+#navigation li li a span  {
+	background: none!important;
+}
+
+#navigation li li  {
+	float: left;
+	width: 100%;
+}
+	
+#navigation li.current_page_item li a span  {
+	background-image: none!important;
+}
+	
+#navigation li.current_page_item li a span span  {
+	background: none;
+}
+	
+#navigation li.current_page_item li a span span span  {
+	background: none;
+}

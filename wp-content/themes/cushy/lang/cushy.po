@@ -1,0 +1,493 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: cushy/comments.php:24
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: cushy/archive.php:51
+#: cushy/search.php:38
+#: cushy/index.php:36
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#. Text in function
+#: cushy/comments.php:81
+#: cushy/comments.php:86
+msgid "(required)"
+msgstr ""
+
+#. Text in function
+#: cushy/comments.php:24
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: cushy/comments.php:24
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: cushy/includes/theme-widgets.php:31
+msgid "Account:"
+msgstr ""
+
+#. Text in echo
+#: cushy/footer.php:16
+msgid "Additional Info"
+msgstr ""
+
+#. Text in echo
+#: cushy/header.php:13
+#: cushy/header.php:14
+msgid "Archive"
+msgstr ""
+
+#. Text in echo
+#: cushy/archive.php:13
+#: cushy/archive.php:15
+#: cushy/archive.php:17
+msgid "Archive for"
+msgstr ""
+
+#. Text in echo
+#: cushy/archive.php:9
+msgid "Archive for the"
+msgstr ""
+
+#. Text in echo
+#: cushy/sidebar.php:6
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: cushy/template_archives.php:15
+msgid "Archives by Month:"
+msgstr ""
+
+#. Text in echo
+#: cushy/template_archives.php:24
+msgid "Archives by Subject:"
+msgstr ""
+
+#. Text in echo
+#: cushy/archive.php:19
+msgid "Author Archive"
+msgstr ""
+
+#. Text in echo
+#: cushy/header.php:10
+msgid "Author Archives"
+msgstr ""
+
+#. Text in echo
+#: cushy/archive.php:21
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:42
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#. Text in echo
+#: cushy/archive.php:9
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:97
+msgid "Close this window"
+msgstr ""
+
+#. Text in function
+#: cushy/comments-popup.php:45
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:22
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:9
+msgid "Comments on"
+msgstr ""
+
+#. Text in echo
+#: cushy/footer.php:33
+msgid "Cushy Theme by"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:71
+msgid "E-mail"
+msgstr ""
+
+#. Text in function
+#: cushy/image.php:44
+msgid "Edit this entry."
+msgstr ""
+
+#. Text in echo
+#: cushy/searchform.php:2
+#: cushy/searchform-header.php:2
+msgid "Enter search keyword"
+msgstr ""
+
+#. Text in echo
+#: cushy/404.php:5
+msgid "Error: 404 Page Not Found"
+msgstr ""
+
+#. Text in echo
+#: cushy/search.php:11
+msgid "Here are the posts related to"
+msgstr ""
+
+#. Text in echo
+#: cushy/header.php:65
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: cushy/home.php:17
+msgid "Learn More"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:64
+msgid "Leave a Message"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:53
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:55
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:56
+msgid "Line and paragraph breaks automatic, e-mail address never displayed"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:76
+#: cushy/comments-popup.php:60
+msgid "Log out"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:76
+#: cushy/comments-popup.php:60
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:76
+#: cushy/comments-popup.php:60
+msgid "Logged in as"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:86
+msgid "Mail (will not be published)"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:81
+#: cushy/comments-popup.php:64
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: cushy/archive.php:52
+#: cushy/search.php:39
+#: cushy/index.php:37
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:51
+msgid "No comments yet"
+msgstr ""
+
+#. Text in echo
+#: cushy/archive.php:57
+#: cushy/single.php:35
+#: cushy/search.php:44
+#: cushy/index.php:42
+msgid "Not Found"
+msgstr ""
+
+#. Text in echo
+#: cushy/includes/news.php:38
+msgid "Permalink to"
+msgstr ""
+
+#. Text in echo
+#: cushy/archive.php:40
+#: cushy/single.php:21
+#: cushy/search.php:27
+#: cushy/index.php:25
+msgid "Permanent Link to"
+msgstr ""
+
+#. Text in function
+#: cushy/comments-popup.php:45
+msgid "Pingback"
+msgstr ""
+
+#. Text in echo
+#: cushy/archive.php:11
+msgid "Posts Tagged"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:105
+msgid "Powered by"
+msgstr ""
+
+#. Text in echo
+#: cushy/footer.php:21
+msgid "Quick Links"
+msgstr ""
+
+#. Text in echo
+#: cushy/archive.php:44
+#: cushy/includes/news.php:16
+#: cushy/single.php:25
+#: cushy/search.php:31
+msgid "Read More"
+msgstr ""
+
+#. Text in echo
+#: cushy/archive.php:44
+#: cushy/includes/news.php:16
+#: cushy/single.php:25
+#: cushy/search.php:31
+#: cushy/index.php:29
+msgid "Read more of"
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:34
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:87
+msgid "Say It!"
+msgstr ""
+
+#. Text in echo
+#: cushy/searchform.php:3
+#: cushy/searchform-header.php:3
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: cushy/header.php:9
+#: cushy/search.php:9
+msgid "Search Results"
+msgstr ""
+
+#. Text in function
+#: cushy/includes/theme-functions.php:1
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: cushy/includes/theme-widgets.php:31
+msgid "Show:"
+msgstr ""
+
+#. Text in echo
+#: cushy/archive.php:58
+#: cushy/single.php:36
+#: cushy/search.php:45
+#: cushy/index.php:43
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:57
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#. Text in echo
+#: cushy/page.php:21
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:92
+msgid "Sorry, the comment form is closed at this time"
+msgstr ""
+
+#. Text in echo
+#: cushy/header.php:15
+msgid "Tag Archive"
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:23
+msgid "This entry was posted on"
+msgstr ""
+
+#. Text in echo
+#: cushy/404.php:6
+msgid "This page does not exist! Try another link please."
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in function
+#: cushy/includes/theme-widgets.php:31
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: cushy/comments-popup.php:45
+msgid "Trackback"
+msgstr ""
+
+#. Text in function
+#: cushy/includes/theme-widgets.php:31
+msgid "Twitter Updates"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:76
+msgid "URL"
+msgstr ""
+
+#. Text in echo
+#: cushy/includes/news.php:29
+msgid "View the Blog"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:91
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:30
+msgid "You can"
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:26
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:38
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr ""
+
+#. Text in function
+#: cushy/includes/theme-functions.php:1
+msgid "You cannot edit the Yoast Breadcrumbs options."
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:56
+msgid "You must be"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:81
+msgid "Your Comment"
+msgstr ""
+
+#. Text in echo
+#: cushy/includes/theme-comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:56
+msgid "allowed"
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:24
+msgid "and is filed under"
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:23
+#: cushy/includes/theme-comments.php:18
+msgid "at"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:45
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:26
+msgid "feed"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:24
+msgid "feed for comments on this post."
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:30
+#: cushy/image.php:34
+msgid "from your own site"
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:30
+msgid "leave a response"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:56
+msgid "logged in"
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:30
+msgid "or"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments-popup.php:27
+msgid "to TrackBack this entry is:"
+msgstr ""
+
+#. Text in echo
+#: cushy/comments.php:56
+msgid "to post a comment."
+msgstr ""
+
+#. Text in echo
+#: cushy/image.php:30
+#: cushy/image.php:34
+msgid "trackback"
+msgstr ""

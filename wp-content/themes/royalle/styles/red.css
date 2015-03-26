@@ -1,0 +1,201 @@
+/* Style: red */
+
+body { background: #a57979 url(red/bg.jpg) repeat; }
+
+#container {
+	border:  1px solid #723636;
+}
+
+a:link, a:visited {
+	color: #a20f0f;
+}
+
+.col-full  { background-color: #fdfdfd; }
+
+#header {
+	background: #892e2e url(red/header_bg.jpg) repeat-x;
+}
+
+#sites ul li a span.button  {
+	background: url(red/sites_icon/sitesoverlay.png) no-repeat center center;
+}
+
+#sites ul li.empty a span.button  {
+	background: url(red/sites_icon/sitesempty.png) no-repeat left top;
+}
+
+#sites li:hover {
+	background-color: #993333;
+	background-image: none;
+}
+
+#sites ul li a  {
+	border-left: 1px solid #6c2424;
+}
+
+#content {
+	background: #fdfdfd url(red/sidebar_bg.jpg) repeat-y right top;
+}
+
+#main.fullwidth  { background-color: #fff; background-image: none; }
+
+#top-nav {
+	border-top: 1px solid #6a3535;
+	border-bottom: 1px solid #6a3535;
+	background-color:#966465;
+}
+
+.nav a:link,
+.nav a:visited{color:#fff; text-shadow:1px 1px 1px #000;}
+.nav a:hover,
+.nav a:active{color:#ffdbdb;}
+.nav li ul{ border:1px solid #6a3535; border-top:none}
+.nav li ul li a:hover{color:#4e0909 !important;}
+
+#sidebar_navigation {
+	background: #fcf2f9 url(red/navigation_btm.jpg) no-repeat left bottom;
+}
+
+#sidebar_navigation ul {
+	background: #fcf2f9 url(red/navigation_bg.jpg) repeat-y right top;
+}
+
+#sidebar_navigation li {
+	background: transparent url(red/navigation_li_bg.jpg) repeat-x left bottom;
+}
+
+#sidebar_navigation a {
+	color: #454545;
+	text-shadow:1px 1px 1px #ffffff;
+}
+
+.post .title {
+	border-bottom: 1px solid #802b2b;
+}
+
+.post .entry blockquote {
+	border-color: #903030;
+}
+
+.archive_header {
+	background-color: #e2d0d0;
+	border-color: #c6b6b6;
+}
+
+.featured-title a:link,
+.featured-title a:visited,
+.title a:link,
+.title a:visited {
+	color: #292929;
+}
+
+.featured {
+	background: transparent url(red/featured_btm.jpg) repeat-x left bottom;
+}
+
+.featured .comment-cloud a {
+	background: transparent url(red/comment_crown.jpg) no-repeat;
+}
+
+.post-meta .comments a {
+	background: transparent url(red/comment_flag.jpg) no-repeat;
+}
+
+.more_entries {
+	border-top: 1px solid #802b2b;
+}
+
+.more_entries .wp-pagenavi a:link,
+.more_entries .wp-pagenavi a:visited { background: #dec9c9;color: #666; border:1px solid #c1a9a9;}
+.more_entries .wp-pagenavi .current, 
+.more_entries .wp-pagenavi .on,
+.more_entries .wp-pagenavi a:hover { color: #fff;background: #903030 !important; border-color: #6d2323 !important; }
+.wp-pagenavi span.current {color:#fff !important;}
+
+.widget {
+	color: #a20f0f;
+}
+
+.widget h3 {
+	color: #454545;
+	text-shadow:1px 1px 1px #ffffff;
+}
+
+.widget input#s, .widget input.field  { background-color: #fff; border-color: #999; }
+.widget input.submit  {background-color:#903030; border-color:#6d2323; color:#fff}
+
+#wp-calendar caption {
+	text-shadow: 1px 1px 1px #000000;
+	color: #fff;
+}
+
+#wp-calendar th,#wp-calendar td{ text-shadow: 1px 1px 1px #000000;
+	color: #fff;}
+
+#featured li{
+	background: transparent url(red/featured_icon.png) no-repeat left top;
+}
+
+#featured span.post-meta {
+	color: #a20f0f;
+}
+
+#comment-widget li {
+	color: #fff;
+}
+
+#comment-widget li .body {
+	color: #fff;
+	text-shadow:1px 1px 1px #000;
+}
+
+#twitter_update_list a {
+	color: #a20f0f;
+}
+
+#address {
+	color: #282828;
+}
+
+#comment-widget li a {
+	color: #4a0d0d;
+}
+
+#comments li.thread-even .comment-container {
+	background-color: #fff;
+	border: 2px solid #9c3e3e;
+}
+
+#comments li.thread-odd .comment-container {
+	background-color: #be9696;
+	border: 2px solid #9a3a3a;
+}
+
+#comments li.thread-odd .comment-head .name a  { color: #630f0f; }
+
+#comments h3{
+	text-shadow:1px 1px 1px #ffffff;
+}
+
+#comments .comment-head .avatar img{ border:2px solid #ddccd2;}
+
+#footer{
+	background: transparent url(red/footer_bg.jpg) repeat-x left top;
+}
+
+.footer-widgets .widget h3 {
+	color:#e58e8e;
+	text-shadow:1px 1px 1px #000;
+}
+
+#footer a {
+	color: #ffffff;
+}
+
+#footer-wrap{
+	background: transparent url(red/footer_wrap_bg.jpg) repeat left top;
+}
+
+#credits {
+	color: #f9d2d2;
+}

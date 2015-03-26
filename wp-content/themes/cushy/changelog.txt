@@ -1,0 +1,116 @@
+*** Cushy Changelog ***
+
+2012.04.23 - version 2.5.6
+ * /includes/sidebar-init.php - Change ID of the "footer" widget area to "sidebar-footer" to avoid styling conflict on the "Appearance > Widgets" screen within the WordPress admin. Please re-add widgets to this area after upgrading.
+
+2011.05.10 - version 2.5.5
+ * /includes/theme-widgets.php - Changed Adspace widget to use WordPress Widgets API for multiple instances of the widget.
+
+2010.04.13 - version 2.5.4
+ * style.css - Fixed navigation image bug
+
+2010.11.15 - version 2.5.3
+ * includes/template-options.php - Added email option
+
+2010.11.04 - version 2.5.2
+ * template-sitemap.php - Added sitemap template
+ * template-contact.php - Added contact page template
+ * style.css - Added styling for contact page template
+
+2010.11.01 - version 2.5.1
+ * style.css - Fixed widget styling for Sidebar Manager
+ * styles/*.css - Fixed widget styling for Sidebar Manager
+ * sidebar.php - Changed sidebar structure to work with Sidebar Manager
+ * includes/theme-widgets.php - Changed widget structure to work with Sidebar Manager
+
+2010.10.28 - version 2.5
+ * /functions/ - FRAMEWORK UPDATE
+ * includes/sidebar-init - register new sidebars for Sidebar Manager
+ * sidebar.php - fixed woo_sidebar function. Removed default sidebar.
+ * footer.php - fixed woo_sidebar function. Removed default sidebar.
+
+2010.07.16 - version 2.4.2
+ * images/nav-back.png - Made image bigger to support longer drop-down menus
+ * /styles/*/nav-back.png - Made image bigger to support longer drop-down menus
+
+2010.06.28 - version 2.4.1
+ * style.css - Fixed Gravity forms styling bug 
+
+2010.06.21 - version 2.4.0
+ * header.php - Added theme support for WordPress 3.0 Menu Management
+ * /includes/theme-functions.php - Added theme support for WordPress 3.0 Menu Management
+ 
+2010.06.09 - version 2.3.2
+ * style.css - Added styling for Gravity forms
+ * /styles/*.css  - Added styling for Gravity forms
+
+2010.06.07 - version 2.3.1
+ * style.css - Navigation style bug fix
+ * /styles/*.css  - Fixed nav style bug
+
+2010.04.28 - version 2.3.0
+ * header.php - added support for WooNav
+ * style.css - Added styling for additional drop-down levels
+ 
+2010.04.22 - version 2.2.1
+ * home.php - changed thumb.php to woo_image
+ * includes/featured_tabs.php - changed thumb.php to woo_image
+
+2010.04.21 - version 2.2
+ * /functions/* - MAJOR UPDATE - Framework V.2.7.0
+ * header.php  - Added SEO tags, woo_title(); & woo_meta();
+ * functions.php - Changed layout for loading required files.
+
+2009.12.22 - version 2.1.1
+ * home.php - changed get_posts to query_posts for WP 2.9
+
+2009.09.09 - version 2.1
+ * /functions/* - Core Framework 1.0.9
+ * /lang/cushy.po - Added language file. See: http://www.woothemes.com/2009/08/how-to-translate-a-theme/
+ * Added gettext functions to template php files to support localization.
+
+2009.09.06 - version 2.0.1
+  * comments.php - fixed bug in comments
+    /includes/theme-comments.php
+
+2009.08.06 - version 2.0.0
+  * /functions/ - New WooThemes Framework (V1.0.4) (core theme functions)
+     functions.php
+  * includes/theme-comments.php - Moved from /functions/
+     includes/theme-functions.php
+     includes/theme-js.php
+     includes/theme-options.php
+     includes/theme-widgets.php
+     includes/sidebar-init.php
+  * includes/theme-options.php - Added new general & dynamic images options
+  * archive.php - Fixed checkbox options ( $var == 'true' instead of just $var )
+    single.php
+    page.php
+    template-archives.php
+  * header.php - Tweaked navigation include
+  * header.php - Fixed featured page include
+    home.php
+
+2009.03.24 - version 1.0.5
+	* style.css - fixed IE styling for submit button ( removed background from #submit )
+	* comments.php - added src= to submit input
+
+2009.02.23 - version 1.0.4
+	* home.php - made custom homepage template show up by default.   
+	  template-homepage.php - removed file
+	* header.php - excluding featured tabber pages & featured page from top navigation automatically
+	  functions/admin-setup.php
+	* includes/js/tabs.js - included correct version for tabs to work with WP
+
+2009.02.16 - version 1.0.3
+	* header.php - removed javascript
+	  functions.php - added javascript
+
+2009.02.13 - version 1.0.2
+	* header.php - added js again
+	  functions.php - removed js load
+
+2009.02.13 - version 1.0.1
+	* includes/news.php - fixed bug in query
+	* header.php - removed javascript
+	  functions.php - added javascript

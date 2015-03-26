@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: royalle/index.php:85
+#: royalle/search.php:38
+#: royalle/archive.php:69
+msgid " Older Entries &raquo;"
+msgstr ""
+
+#. Text in function
+#: royalle/archive.php:41
+msgid "%"
+msgstr ""
+
+#. Text in function
+#: royalle/comments.php:19
+#: royalle/search.php:20
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: royalle/index.php:84
+#: royalle/search.php:37
+#: royalle/archive.php:68
+msgid "&laquo; Newer Entries "
+msgstr ""
+
+#. Text in function
+#: royalle/index.php:34
+#: royalle/index.php:64
+#: royalle/archive.php:48
+msgid "..."
+msgstr ""
+
+#. Text in function
+#: royalle/archive.php:41
+msgid "0"
+msgstr ""
+
+#. Text in function
+#: royalle/search.php:20
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: royalle/archive.php:41
+msgid "1"
+msgstr ""
+
+#. Text in function
+#: royalle/search.php:20
+msgid "1 Comment"
+msgstr ""
+
+#. Text in echo
+#: royalle/footer.php:32
+msgid "All Rights Reserved."
+msgstr ""
+
+#. Text in echo
+#: royalle/includes/comments.php:35
+msgid "about"
+msgstr ""
+
+#. Text in echo
+#: royalle/includes/comments.php:35
+msgid "Posted by"
+msgstr ""
+
+#. Text in echo
+#: royalle/archive.php:9
+#: royalle/archive.php:12
+#: royalle/archive.php:15
+#: royalle/archive.php:18
+#: royalle/header.php:11
+#: royalle/header.php:12
+msgid "Archive"
+msgstr ""
+
+#. Text in echo
+#: royalle/archive.php:21
+msgid "Archive by Author"
+msgstr ""
+
+#. Text in echo
+#: royalle/header.php:8
+msgid "Author Archives"
+msgstr ""
+
+#. Text in echo
+#: royalle/template-sitemap.php:23
+#: royalle/template-archives.php:27
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: royalle/template-sitemap.php:44
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments-legacy.php:37
+msgid "Comments For This Post"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:52
+#: royalle/comments-legacy.php:117
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: royalle/footer.php:36
+msgid "Designed by"
+msgstr ""
+
+#. Text in echo
+#: royalle/includes/theme-comments.php:28
+msgid "Direct link to this comment"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:96
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: royalle/sidebar.php:7
+#: royalle/header.php:85
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: royalle/comments.php:64
+msgid "Leave a Comment"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments-legacy.php:126
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: royalle/comments.php:64
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:82
+#: royalle/comments-legacy.php:136
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:82
+#: royalle/comments-legacy.php:136
+msgid "Logged in as"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:82
+#: royalle/comments-legacy.php:136
+msgid "Logout"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments-legacy.php:144
+msgid "Mail (will not be published)"
+msgstr ""
+
+#. Text in echo
+#: royalle/template-archives.php:33
+msgid "Monthly Archives"
+msgstr ""
+
+#. Text in echo
+#: royalle/includes/theme-widgets.php:99
+msgid "Most Recent"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:91
+#: royalle/comments-legacy.php:141
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: royalle/comments.php:19
+msgid "No Comments"
+msgstr ""
+
+#. Text in function
+#: royalle/comments.php:19
+msgid "One Comment"
+msgstr ""
+
+#. Text in echo
+#: royalle/template-sitemap.php:17
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: royalle/includes/theme-widgets.php:335
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+#. Text in echo
+#: royalle/search.php:17
+#: royalle/archive.php:38
+msgid "Posted on"
+msgstr ""
+
+#. Text in echo
+#: royalle/footer.php:36
+msgid "Powered by"
+msgstr ""
+
+#. Text in echo
+#: royalle/search-form.php:3
+#: royalle/search-form.php:7
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: royalle/header.php:7
+msgid "Search Results"
+msgstr ""
+
+#. Text in echo
+#: royalle/search.php:8
+msgid "Search results"
+msgstr ""
+
+#. Text in echo
+#: royalle/search-form.php:6
+msgid "Search..."
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:121
+msgid "Send"
+msgstr ""
+
+#. Text in echo
+#: royalle/index.php:78
+#: royalle/template-fullwidth.php:27
+#: royalle/search.php:31
+#: royalle/archive.php:62
+#: royalle/404.php:18
+#: royalle/page.php:23
+#: royalle/single.php:46
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Text in echo
+#: royalle/comments-legacy.php:155
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in echo
+#: royalle/includes/theme-widgets.php:103
+msgid "Subscribe to Comments RSS"
+msgstr ""
+
+#. Text in echo
+#: royalle/includes/theme-widgets.php:102
+msgid "Subscribe to Posts RSS"
+msgstr ""
+
+#. Text in echo
+#: royalle/header.php:13
+msgid "Tag Archive"
+msgstr ""
+
+#. Text in echo
+#: royalle/archive.php:24
+msgid "Tag Archives:"
+msgstr ""
+
+#. Text in echo
+#: royalle/template-archives.php:17
+msgid "The Last 30 Posts"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:9
+#: royalle/comments-legacy.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: royalle/comments-legacy.php:79
+msgid "Trackbacks For This Post"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:35
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:101
+#: royalle/comments-legacy.php:147
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:109
+msgid "You can use these tags"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:72
+#: royalle/comments-legacy.php:129
+msgid "You must be"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:114
+msgid "Your comment"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments-legacy.php:57
+#: royalle/comments-legacy.php:89
+#: royalle/includes/theme-comments.php:41
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: royalle/comments-legacy.php:61
+#: royalle/comments-legacy.php:93
+msgid "at"
+msgstr ""
+
+#. Text in echo
+#: royalle/search.php:18
+#: royalle/archive.php:39
+#: royalle/includes/theme-widgets.php:509
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: royalle/template-archives.php:23
+msgid "comments"
+msgstr ""
+
+#. Text in echo
+#: royalle/index.php:21
+#: royalle/index.php:56
+#: royalle/search.php:19
+#: royalle/archive.php:40
+#: royalle/single.php:17
+msgid "in"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:72
+#: royalle/comments-legacy.php:129
+msgid "logged in"
+msgstr ""
+
+#. Text in echo
+#: royalle/includes/theme-widgets.php:509
+msgid "on"
+msgstr ""
+
+#. Text in echo
+#: royalle/includes/theme-comments.php:26
+msgid "on the"
+msgstr ""
+
+#. Text in echo
+#: royalle/includes/theme-comments.php:26
+msgid "remarked"
+msgstr ""
+
+#. Text in echo
+#: royalle/comments.php:72
+#: royalle/comments-legacy.php:129
+msgid "to post a comment."
+msgstr ""

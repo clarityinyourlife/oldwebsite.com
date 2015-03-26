@@ -1,0 +1,241 @@
+body  {
+	background: #c8cdd0 url(greentea/bg.jpg) repeat-x top left;
+}
+
+h1, h2, h3, h4, h5, h6  {
+	color: #000;
+}
+
+a:link, a:visited  {
+	color: #ce0a31;
+}
+
+/* STRUCTURE */
+
+#wrap {
+
+}
+
+#header  {
+	background: #fff url(greentea/header.jpg) repeat-x top left;
+	border-bottom: 7px solid #e9f2db;
+}
+
+#header h1.title a  {
+	color: #000;
+}
+
+#header p.description  {
+	color: #ce0a31;
+}
+
+#rss  {
+	background-color: #8d2036;
+}
+
+#rss a  {
+	color: #fff;
+}
+
+#featured  {
+	background: #d4e4b7 url(greentea/featuredbg.jpg) repeat-x top left;
+}
+
+#featured .buttons a.prev  {
+	background: url(greentea/prev.jpg) no-repeat top left;
+}
+
+#featured .buttons a.next  {
+	background: url(greentea/next.jpg) no-repeat top left;
+}
+
+#steps  {
+	background: #4093ce url(greentea/stepsbg.jpg) repeat-x top left;
+}
+
+#steps ul li a  {
+	color: #fff;
+}
+
+#content  {
+	border-top: 7px solid #e9f2db;
+	border-bottom: 7px solid #e9f2db;
+	background-color: #fff;
+}
+
+#content .moreinfo  {
+	border: 1px solid #d4e5c7;
+	background-color: #f9f9f9;
+	color: #000;
+}
+
+#content .moreinfo h3  {
+	color: #000;	
+}
+
+#content .moreinfo .more a  {
+	color: #ce0a31;
+	background: url(greentea/moreinfo.jpg) no-repeat center left;
+}
+
+#news  {
+	color: #75818a;
+}
+
+#news h3  {
+	color: #000;
+}
+
+#news ul li a  {
+	color: #ce0a31;
+}
+
+#news p.more a  {
+	color: #75818a;
+}
+
+#bottom  {
+	background: #b9d48b url(greentea/bottombg.jpg) repeat-x top left;
+}
+
+#newsletter input.text  {
+	background-color: #e3eed1;
+}
+
+#footer  {
+	background: #9fc9e6 url(greentea/footerbg.jpg) repeat-x top left;
+	color: #fff;
+}
+
+#footer p a  {
+	color: #fff;
+}
+
+/* NAVIGATION */
+
+#nav ul li a:link, #nav ul li a:visited  {
+	color: #000;
+}
+
+/* BLOG CSS */
+
+.post .categories  {
+	background-color: #8e2238;
+	color: #fff;
+}
+
+.post .categories a  {
+	color: #fff;
+}
+
+.post h2.title .date a  {
+	color: #baba99;
+}
+
+.post h2.title a  {
+	color: #000;
+}
+
+.post p.comments a  {
+	background: url(greentea/comments.jpg) no-repeat center left;
+	color: #000;
+}
+
+p.continue a  {
+	color: #ce0a31;
+}
+
+#postad  {
+	background-color: #f3e8eb;
+}
+
+a.adlink  {
+	color: #000;
+}
+.asidespost  {
+	border-left: 3px solid #8e2238;
+}
+
+#sidebar img.bigad  {
+	border: 2px solid #ce0a31;
+}
+
+#tabbox  {
+	border: 1px solid #8d2036;
+}
+
+#tabbox ul.idTabs  {
+	background: #e1c9ce;
+}
+
+#tabbox ul.idTabs li a:link, #tabbox ul.idTabs li a:visited  {
+	color: #000;
+}
+
+#tabbox ul.idTabs li a.selected  {
+	color: #fff;
+	background: #8bc62d url(greentea/selectedtab.jpg) repeat center center;
+}
+
+#boxes ul  {
+	background: #f9f9f9;
+}
+
+#boxes ul li {
+	background: url(greentea/tablibg.jpg) no-repeat top left;
+}
+
+#boxes ul li:first-child  {
+	background: none;
+}
+
+#boxes ul li a:link, #boxes ul li a:visited   {
+	color: #000;
+}
+
+#leftwidget  {
+	border-right: 1px solid #dedede;
+}
+
+.widgetlist  h3  {
+	background: url(greentea/widgethead.jpg) no-repeat center left;
+	color: #fff;
+}
+
+.widgetlist ul li  {
+	border-bottom: 1px solid #f0f0f0;
+}
+
+.widgetlist ul li a:link, .widgetlist ul li a:visited  {
+	color: #000;
+}
+.commentlist {
+	border-top: 2px solid #DFF2C1;
+}
+.commentlist li {
+	border-bottom: 2px solid #DFF2C1;
+}
+.commentlist .alt {
+	background: #E9F2DB;
+}
+#commentform input {
+	background: #E9F2DB;
+	border: 1px solid #DFF2C1;
+}
+#commentform textarea {
+	background: #E9F2DB;
+	border: 1px solid #DFF2C1;
+}
+/* DROP DOWN PAGE NAVIGATION */
+
+#pagenav li ul li {
+	background: #E9F2DB;
+	border: 1px solid #DFF2C1;
+}
+
+/* GRAVITY FORMS */
+
+.gform_wrapper .top_label input.large, .gform_wrapper .top_label select.large, .gform_wrapper .top_label textarea.textarea, .gform_wrapper input {
+	background: #E9F2DB;
+	border: 1px solid #DFF2C1;
+}

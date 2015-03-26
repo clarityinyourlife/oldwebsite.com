@@ -1,0 +1,18 @@
+/* Large screen displays & iPad in Landscape */
+@media screen and (max-width: 1030px) {
+	#mainWrapper, #breadcrumbWrapper, #extraContainer1, #extraContainer7 {width: 86%;margin-left: 7%;}
+	.headerImage { background-size: cover; }
+	.imageStyle, video, object, embed {max-width: 100%;height: auto;}
+}
+
+/* Medium screen displays & iPad in Portrait */
+@media screen and (max-width: 770px) {
+	#mainWrapper, #breadcrumbWrapper, #extraContainer1, #extraContainer7 {width: 92%;margin-left: 4%;}
+	.headerImage { background-size: cover; }
+	.imageStyle, video, object, embed {max-width: 100%;height: auto;}
+}
+
+/* Small screen Styles */
+@media screen and (max-width: 480px) {
+	@import url("iPhone.css");
+}

@@ -1,0 +1,200 @@
+/* Style: purple */
+
+body { background: #8f7a9c url(purple/bg.jpg) repeat; }
+
+#container {
+	border:  1px solid #4c4a63;
+}
+
+a:link, a:visited {
+	color: #533569;
+}
+
+.col-full  { background-color: #fcf2f9; }
+
+#header {
+	background: #56376d url(purple/header_bg.jpg) repeat-x;
+}
+
+#sites ul li a span.button  {
+	background: url(purple/sites_icon/sitesoverlay.png) no-repeat center center;
+}
+
+#sites ul li.empty a span.button  {
+	background: url(purple/sites_icon/sitesempty.png) no-repeat left top;
+}
+
+#sites li:hover {
+	background-color: #674282;
+	background-image: none;
+}
+
+#sites ul li a  {
+	border-left: 1px solid #402951;
+}
+
+#content {
+	background: #fdfdfd url(purple/sidebar_bg.jpg) repeat-y right top;
+}
+
+#main.fullwidth  { background-color: #fff; background-image: none; }
+
+#top-nav {
+	border-top: 1px solid #4c4a63;
+	border-bottom: 1px solid #4c4a63;
+	background-color:#8f7a9c;
+}
+
+.nav a:link,
+.nav a:visited{color:#fff; text-shadow:1px 1px 1px #000;}
+.nav a:hover{color:#f6eaff;}
+.nav li ul{ border:1px solid #4c4a63; border-top:none}
+.nav li ul li a:hover{color:#4c4a63 !important;}
+
+#sidebar_navigation {
+	background: #fcf2f9 url(purple/navigation_btm.jpg) no-repeat left bottom;
+}
+
+#sidebar_navigation ul {
+	background: #fcf2f9 url(purple/navigation_bg.jpg) repeat-y right top;
+}
+
+#sidebar_navigation li {
+	background: transparent url(purple/navigation_li_bg.jpg) repeat-x left bottom;
+}
+
+#sidebar_navigation a {
+	color: #454545;
+	text-shadow:1px 1px 1px #ffffff;
+}
+
+.post .title {
+	border-bottom: 1px solid #533569;
+}
+
+.post .entry blockquote {
+	border-color: #6a818b;
+}
+
+.archive_header {
+	background-color: #dacee1;
+	border-color: #674282;
+}
+
+.featured-title a:link,
+.featured-title a:visited,
+.title a:link,
+.title a:visited {
+	color: #292929;
+}
+
+.featured {
+	background: transparent url(purple/featured_btm.jpg) repeat-x left bottom;
+}
+
+.featured .comment-cloud a {
+	background: transparent url(purple/comment_crown.jpg) no-repeat;
+}
+
+.post-meta .comments a {
+	background: transparent url(purple/comment_flag.jpg) no-repeat;
+}
+
+.more_entries {
+	border-top: 1px solid #533569;
+}
+
+.more_entries .wp-pagenavi a:link,
+.more_entries .wp-pagenavi a:visited { background: #d2c6db;color: #666; border:1px solid #ab99b6;}
+.more_entries .wp-pagenavi .current, 
+.more_entries .wp-pagenavi .on,
+.more_entries .wp-pagenavi a:hover { color: #fff;background: #77578d !important; border-color: #4b305e !important; }
+.wp-pagenavi span.current {color:#fff !important;}
+
+.widget {
+	color: #4b305e;
+}
+
+.widget h3 {
+	color: #454545;
+	text-shadow:1px 1px 1px #ffffff;
+}
+
+.widget input#s, .widget input.field  { background-color: #fff; border-color: #999; }
+.widget input.submit  {background-color:#77578d; border-color:#4b305e; color:#fff}
+
+#wp-calendar caption {
+	text-shadow: 1px 1px 1px #000000;
+	color: #fff;
+}
+
+#wp-calendar th,#wp-calendar td{ text-shadow: 1px 1px 1px #000000;
+	color: #fff;}
+
+#featured li{
+	background: transparent url(purple/featured_icon.png) no-repeat left top;
+}
+
+#featured span.post-meta {
+	color: #4b305e;
+}
+
+#comment-widget li {
+	color: #fff;
+}
+
+#comment-widget li .body {
+	color: #fff;
+	text-shadow:1px 1px 1px #000;
+}
+
+#twitter_update_list a {
+	color: #4b305e;
+}
+
+#address {
+	color: #282828;
+}
+
+#comment-widget li a {
+	color: #a381b6;
+}
+
+#comments li.thread-even .comment-container {
+	background-color: #fff;
+	border: 2px solid #baabc5;
+}
+
+#comments li.thread-odd .comment-container {
+	background-color: #d2c6db;
+	border: 2px solid #ab99b6;
+}
+
+#comments li.thread-odd .comment-head .name a  { color: #4b305e; }
+
+#comments h3{
+	text-shadow:1px 1px 1px #ffffff;
+}
+
+#comments .comment-head .avatar img{ border:2px solid #ddccd2;}
+
+#footer{
+	background: transparent url(purple/footer_bg.jpg) repeat-x left top;
+}
+
+.footer-widgets .widget h3 {
+	color:#c8a7da;
+	text-shadow:1px 1px 1px #000;
+}
+
+#footer a {
+	color: #ffffff;
+}
+
+#footer-wrap{
+	background: transparent url(purple/footer_wrap_bg.jpg) repeat left top;
+}
+
+#credits {
+	color: #e4dde8;
+}

@@ -1,0 +1,244 @@
+/* =Reset
+-------------------------------------------------------------- */
+
+caption, th, td {
+	text-align: right;
+}
+
+/* =Global
+----------------------------------------------- */
+
+/* Text elements */
+
+ul, ol {
+	margin: 0 2em 1.5em 0;
+}
+
+ul ul, ol ol, ul ol, ol ul {
+	margin-right: 1.5em;
+	margin-left: auto;
+}
+
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	background: -webkit-gradient(linear, right top, right bottom, color-stop(60%,#fafafa), color-stop(100%,#e6e6e6));
+}
+
+button:hover,
+html input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+	background: -webkit-gradient(linear, right top, right bottom, color-stop(60%,#f5f5f5), color-stop(100%,#dcdcdc));
+}
+
+textarea {
+	padding-right: 3px;
+	padding-left: 0;
+}
+
+/* Alignment */
+.alignright {
+	float: right;
+	margin-left: 1.5em;
+	margin-right: auto;
+}
+
+.alignleft {
+	float: left;
+	margin-right: 1.5em;
+	margin-left: auto;
+}
+
+/* =Menu
+----------------------------------------------- */
+
+.main-navigation li {
+	float: right;
+}
+
+.main-navigation ul ul {
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	float: right;
+}
+
+.main-navigation ul ul ul {
+	right: 100%;
+	left: auto;
+}
+
+/* =Content
+----------------------------------------------- */
+
+.content-wrapper {
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+}
+
+.entry-title {
+	float: right;
+	margin: 0 10px 0 0;
+}
+
+.cat-links a,
+.comments-link a {
+	float: right;
+	margin-left: 5px;
+	margin-right: auto;
+}
+
+.comments-link a {
+	float: left;
+}
+
+.entry-header {
+	border-top-right-radius: 8px;
+	border-top-left-radius: 8px;
+}
+
+.entry-date,
+.sticky-permalink,
+.sticky-permalink:visited {
+	float: left;
+	text-align: left;
+	margin: 5px 0 0 10px;
+}
+
+/* =Layout
+----------------------------------------------- */
+
+#primary {
+	float: right;
+	margin: 0 0 0 -22%;
+}
+
+#content {
+	margin: 0 0 0 25%;
+}
+
+#secondary {
+	float: left;
+}
+
+
+/* =Navigation
+----------------------------------------------- */
+
+.site-content .nav-previous {
+	float: right;
+}
+
+.site-content .nav-next {
+	float: left;
+	text-align: left;
+}
+
+/* =Header
+----------------------------------------------- */
+
+.site-title a {
+	float: right;
+}
+
+.site-description {
+	float: right;
+}
+
+#baby-graphic {
+	float: left;
+}
+
+/* =Comments
+----------------------------------------------- */
+
+#commentform .required {
+	float: left;
+	margin-right: -5px;
+	margin-left: auto;
+}
+
+#commentform .comment-notes .required {
+	right: auto;
+	left: auto;
+}
+
+#commentform .comment-form-author label,
+#commentform .comment-form-email label,
+#commentform .comment-form-url label {
+	float: right;
+}
+
+.required {
+	right: 100px;
+	left: auto;
+}
+
+ul.children .comment-author {
+	border-left: 0 none;
+	clear: right;
+	border-right: none;
+}
+
+ul.children .comment-content,
+ul.children .comment-content .comment-meta,
+ul.children .reply {
+	padding-right: 0px;
+	padding-left: 0;
+}
+
+.avatar {
+	float: right;
+	margin: 0 0 0 .5em;
+}
+
+.comment-author-avatar {
+	float: right;
+	margin-left: 10px;
+	margin-right: auto;
+}
+
+.comment-content,
+.comment-content .comment-meta,
+.reply {
+	padding-right: 211px;
+	padding-left: 0;
+}
+
+.comment-author {
+	float: right;
+	border-left: 1px solid rgba(119,119,119,.2);
+	margin-left: 20px;
+	margin-right: auto;
+	border-right: none;
+}
+
+.comment-author cite.fn {
+	float: right;
+}
+
+.comment-form-comment label {
+	float: right;
+}
+
+#cancel-comment-reply-link {
+	float: left;
+}
+
+h2.comments-title {
+	padding: 0 1em 0 0;
+}
+
+/* =Widgets
+----------------------------------------------- */
+
+.widget-contents {
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+.widget-title {
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}

@@ -1,0 +1,241 @@
+body  {
+	background: #c8cdd0 url(honeycomb/bg.jpg) repeat-x top left;
+}
+
+h1, h2, h3, h4, h5, h6  {
+	color: #000;
+}
+
+a:link, a:visited  {
+	color: #fb6c0e;
+}
+
+/* STRUCTURE */
+
+#wrap {
+
+}
+
+#header  {
+	background: #fff url(honeycomb/header.jpg) repeat-x top left;
+	border-bottom: 7px solid #eae4bc;
+}
+
+#header h1.title a  {
+	color: #000;
+}
+
+#header p.description  {
+	color: #150d0a;
+}
+
+#rss  {
+	background-color: #150d0a;
+}
+
+#rss a  {
+	color: #fff;
+}
+
+#featured  {
+	background: #ffac0e url(honeycomb/featuredbg.jpg) repeat-x top left;
+}
+
+#featured .buttons a.prev  {
+	background: url(honeycomb/prev.jpg) no-repeat top left;
+}
+
+#featured .buttons a.next  {
+	background: url(honeycomb/next.jpg) no-repeat top left;
+}
+
+#steps  {
+	background: #4093ce url(honeycomb/stepsbg.jpg) repeat-x top left;
+}
+
+#steps ul li a  {
+	color: #fff;
+}
+
+#content  {
+	border-top: 7px solid #eae4bc;
+	border-bottom: 7px solid #eae4bc;
+	background-color: #fff;
+}
+
+#content .moreinfo  {
+	border: 1px solid #170f0c;
+	background-color: #eae4bc;
+	color: #150d0a;
+}
+
+#content .moreinfo h3  {
+	color: #150d0a;	
+}
+
+#content .moreinfo .more a  {
+	color: #fb6c0e;
+	background: url(honeycomb/moreinfo.jpg) no-repeat center left;
+}
+
+#news  {
+	color: #75818a;
+}
+
+#news h3  {
+	color: #150d0a;
+}
+
+#news ul li a  {
+	color: #fb6c0e;
+}
+
+#news p.more a  {
+	color: #75818a;
+}
+
+#bottom  {
+	background: #ffac0e url(honeycomb/bottombg.jpg) repeat-x top left;
+}
+
+#newsletter input.text  {
+	background-color: #ffde9f;
+}
+
+#footer  {
+	background: #9fc9e6 url(honeycomb/footerbg.jpg) repeat-x top left;
+	color: #fff;
+}
+
+#footer p a  {
+	color: #fff;
+}
+
+/* NAVIGATION */
+
+#nav ul li a:link, #nav ul li a:visited  {
+	color: #000;
+}
+
+/* BLOG CSS */
+
+.post .categories  {
+	background-color: #150d0a;
+	color: #fff;
+}
+
+.post .categories a  {
+	color: #fff;
+}
+
+.post h2.title .date a  {
+	color: #bba827;
+}
+
+.post h2.title a  {
+	color: #000;
+}
+
+.post p.comments a  {
+	background: url(honeycomb/comments.jpg) no-repeat center left;
+	color: #000;
+}
+
+p.continue a  {
+	color: #fb6c0e;
+}
+
+#postad  {
+	background-color: #e7e6e6;
+}
+
+a.adlink  {
+	color: #000;
+}
+.asidespost  {
+	border-left: 3px solid #150d0a;
+}
+
+#sidebar img.bigad  {
+	border: 2px solid #150d0a;
+}
+
+#tabbox  {
+	border: 1px solid #fb6c0e;
+}
+
+#tabbox ul.idTabs  {
+	background: #fed3a8;
+}
+
+#tabbox ul.idTabs li a:link, #tabbox ul.idTabs li a:visited  {
+	color: #000;
+}
+
+#tabbox ul.idTabs li a.selected  {
+	color: #fff;
+	background: #8bc62d url(honeycomb/selectedtab.jpg) repeat center center;
+}
+
+#boxes ul  {
+	background: #fff0d3;
+}
+
+#boxes ul li {
+	background: url(honeycomb/tablibg.jpg) no-repeat top left;
+}
+
+#boxes ul li:first-child  {
+	background: none;
+}
+
+#boxes ul li a:link, #boxes ul li a:visited   {
+	color: #000;
+}
+
+#leftwidget  {
+	border-right: 1px solid #dedede;
+}
+
+.widgetlist  h3  {
+	background: url(honeycomb/widgethead.jpg) no-repeat center left;
+	color: #fff;
+}
+
+.widgetlist ul li  {
+	border-bottom: 1px solid #f0f0f0;
+}
+
+.widgetlist ul li a:link, .widgetlist ul li a:visited  {
+	color: #000;
+}
+.commentlist {
+	border-top: 2px solid #EADF98;
+}
+.commentlist li {
+	border-bottom: 2px solid #EADF98;
+}
+.commentlist .alt {
+	background: #EAE4BC;
+}
+#commentform input {
+	background: #EAE4BC;
+	border: 1px solid #EADF98;
+}
+#commentform textarea {
+	background: #EAE4BC;
+	border: 1px solid #EADF98;
+}
+/* DROP DOWN PAGE NAVIGATION */
+
+#pagenav li ul li {
+	background: #EAE4BC;
+	border: 1px solid #EADF98;
+}
+
+/* GRAVITY FORMS */
+
+.gform_wrapper .top_label input.large, .gform_wrapper .top_label select.large, .gform_wrapper .top_label textarea.textarea, .gform_wrapper input {
+	background: #EAE4BC;
+	border: 1px solid #EADF98;
+}

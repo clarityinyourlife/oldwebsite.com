@@ -1,0 +1,14 @@
+/* 80px tall navbar */
+.navbar .nav > li {
+line-height: 60px;
+}
+.navbar .nav .dropdown-toggle .caret {
+margin-top: 0;
+vertical-align: middle;
+}
+.navbar .brand {
+	margin-top: 18px;
+}
+body {
+	padding-top: 100px;
+}

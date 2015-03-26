@@ -1,0 +1,47 @@
+/*  Global
+------------------------ */
+
+.galaxy-clear {
+	clear: both;
+	height: 0px;
+	font-size: 0px;
+	line-height: 0px;
+}
+
+.galaxy-focus {
+	color: #dc4b39;
+	font-weight: bold;
+}
+
+/*  Tabs
+------------------------ */
+
+.galaxy-tabs h3 { 
+	display:none;
+}
+
+.galaxy-tabs {
+	margin: 15px 0 15px 0;
+}
+
+.galaxy-tabs h2 {
+	margin: 0 8px;
+}
+
+.galaxy-tabs-content {
+	padding: 10px;
+}
+
+.galaxy-tabs-content a:link,
+.galaxy-tabs-content a:visited,
+.galaxy-tabs-data a:link,
+.galaxy-tabs-data a:visited {
+	color: #dc4b39;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.galaxy-tabs-content a:hover,
+.galaxy-tabs-data a:hover {
+	text-decoration: underline;
+}

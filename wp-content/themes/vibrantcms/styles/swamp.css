@@ -1,0 +1,241 @@
+body  {
+	background: #c8cdd0 url(swamp/bg.jpg) repeat-x top left;
+}
+
+h1, h2, h3, h4, h5, h6  {
+	color: #000;
+}
+
+a:link, a:visited  {
+	color: #256e73;
+}
+
+/* STRUCTURE */
+
+#wrap {
+
+}
+
+#header  {
+	background: #fff url(swamp/header.jpg) repeat-x top left;
+	border-bottom: 7px solid #d1d0cb;
+}
+
+#header h1.title a  {
+	color: #000;
+}
+
+#header p.description  {
+	color: #36393b;
+}
+
+#rss  {
+	background-color: #45484b;
+}
+
+#rss a  {
+	color: #fff;
+}
+
+#featured  {
+	background: #696758 url(swamp/featuredbg.jpg) repeat-x top left;
+}
+
+#featured .buttons a.prev  {
+	background: url(swamp/prev.jpg) no-repeat top left;
+}
+
+#featured .buttons a.next  {
+	background: url(swamp/next.jpg) no-repeat top left;
+}
+
+#steps  {
+	background: #4093ce url(swamp/stepsbg.jpg) repeat-x top left;
+}
+
+#steps ul li a  {
+	color: #fff;
+}
+
+#content  {
+	border-top: 7px solid #d1d0cb;
+	border-bottom: 7px solid #d1d0cb;
+	background-color: #fff;
+}
+
+#content .moreinfo  {
+	border: 1px solid #c5bd8f;
+	background-color: #fff;
+	color: #000;
+}
+
+#content .moreinfo h3  {
+	color: #000;	
+}
+
+#content .moreinfo .more a  {
+	color: #36393b;
+	background: url(swamp/moreinfo.jpg) no-repeat center left;
+}
+
+#news  {
+	color: #75818a;
+}
+
+#news h3  {
+	color: #000;
+}
+
+#news ul li a  {
+	color: #36393b;
+}
+
+#news p.more a  {
+	color: #75818a;
+}
+
+#bottom  {
+	background: #696758 url(swamp/bottombg.jpg) repeat-x top left;
+}
+
+#newsletter input.text  {
+	background-color: #c3c2bc;
+}
+
+#footer  {
+	background: #9fc9e6 url(swamp/footerbg.jpg) repeat-x top left;
+	color: #fff;
+}
+
+#footer p a  {
+	color: #fff;
+}
+
+/* NAVIGATION */
+
+#nav ul li a:link, #nav ul li a:visited  {
+	color: #000;
+}
+
+/* BLOG CSS */
+
+.post .categories  {
+	background-color: #36393b;
+	color: #fff;
+}
+
+.post .categories a  {
+	color: #fff;
+}
+
+.post h2.title .date a  {
+	color: #c5bc8e;
+}
+
+.post h2.title a  {
+	color: #000;
+}
+
+.post p.comments a  {
+	background: url(swamp/comments.jpg) no-repeat center left;
+	color: #000;
+}
+
+p.continue a  {
+	color: #256e73;
+}
+
+#postad  {
+	background-color: #f0f0ee;
+}
+
+a.adlink  {
+	color: #000;
+}
+.asidespost  {
+	border-left: 3px solid #36393b;
+}
+
+#sidebar img.bigad  {
+	border: 2px solid #c5bc8e;
+}
+
+#tabbox  {
+	border: 1px solid #4b4e51;
+}
+
+#tabbox ul.idTabs  {
+	background: #d6d7d7;
+}
+
+#tabbox ul.idTabs li a:link, #tabbox ul.idTabs li a:visited  {
+	color: #000;
+}
+
+#tabbox ul.idTabs li a.selected  {
+	color: #fff;
+	background: #8bc62d url(swamp/selectedtab.jpg) repeat center center;
+}
+
+#boxes ul  {
+	background: #fff;
+}
+
+#boxes ul li {
+	background: url(swamp/tablibg.jpg) no-repeat top left;
+}
+
+#boxes ul li:first-child  {
+	background: none;
+}
+
+#boxes ul li a:link, #boxes ul li a:visited   {
+	color: #000;
+}
+
+#leftwidget  {
+	border-right: 1px solid #dedede;
+}
+
+.widgetlist  h3  {
+	background: url(swamp/widgethead.jpg) no-repeat center left;
+	color: #fff;
+}
+
+.widgetlist ul li  {
+	border-bottom: 1px solid #f0f0f0;
+}
+
+.widgetlist ul li a:link, .widgetlist ul li a:visited  {
+	color: #000;
+}
+.commentlist {
+	border-top: 2px solid #BEBBAF;
+}
+.commentlist li {
+	border-bottom: 2px solid #BEBBAF;
+}
+.commentlist .alt {
+	background: #D1D0CB;
+}
+#commentform input {
+	background: #D1D0CB;
+	border: 1px solid #BEBBAF;
+}
+#commentform textarea {
+	background: #D1D0CB;
+	border: 1px solid #BEBBAF;
+}
+/* DROP DOWN PAGE NAVIGATION */
+
+#pagenav li ul li {
+	background: #D1D0CB;
+	border: 1px solid #BEBBAF;
+}
+
+/* GRAVITY FORMS */
+
+.gform_wrapper .top_label input.large, .gform_wrapper .top_label select.large, .gform_wrapper .top_label textarea.textarea, .gform_wrapper input {
+	background: #D1D0CB;
+	border: 1px solid #BEBBAF;
+}

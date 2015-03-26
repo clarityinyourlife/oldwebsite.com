@@ -1,0 +1,241 @@
+body  {
+	background: #c8cdd0 url(spring/bg.jpg) repeat-x top left;
+}
+
+h1, h2, h3, h4, h5, h6  {
+	color: #000;
+}
+
+a:link, a:visited  {
+	color: #256e73;
+}
+
+/* STRUCTURE */
+
+#wrap {
+
+}
+
+#header  {
+	background: #fff url(spring/header.jpg) repeat-x top left;
+	border-bottom: 7px solid #fbe1be;
+}
+
+#header h1.title a  {
+	color: #000;
+}
+
+#header p.description  {
+	color: #c4314f;
+}
+
+#rss  {
+	background-color: #c4314f;
+}
+
+#rss a  {
+	color: #fff;
+}
+
+#featured  {
+	background: #256e73 url(spring/featuredbg.jpg) repeat-x top left;
+}
+
+#featured .buttons a.prev  {
+	background: url(spring/prev.jpg) no-repeat top left;
+}
+
+#featured .buttons a.next  {
+	background: url(spring/next.jpg) no-repeat top left;
+}
+
+#steps  {
+	background: #4093ce url(spring/stepsbg.jpg) repeat-x top left;
+}
+
+#steps ul li a  {
+	color: #fff;
+}
+
+#content  {
+	border-top: 7px solid #fbe1be;
+	border-bottom: 7px solid #fbe1be;
+	background-color: #fff;
+}
+
+#content .moreinfo  {
+	border: 1px solid #f7d05d;
+	background-color: #fff7ed;
+	color: #000;
+}
+
+#content .moreinfo h3  {
+	color: #000;	
+}
+
+#content .moreinfo .more a  {
+	color: #c4314f;
+	background: url(spring/moreinfo.jpg) no-repeat center left;
+}
+
+#news  {
+	color: #75818a;
+}
+
+#news h3  {
+	color: #000;
+}
+
+#news ul li a  {
+	color: #c4314f;
+}
+
+#news p.more a  {
+	color: #75818a;
+}
+
+#bottom  {
+	background: #256e73 url(spring/bottombg.jpg) repeat-x top left;
+}
+
+#newsletter input.text  {
+	background-color: #a8c5c7;
+}
+
+#footer  {
+	background: #9fc9e6 url(spring/footerbg.jpg) repeat-x top left;
+	color: #fff;
+}
+
+#footer p a  {
+	color: #fff;
+}
+
+/* NAVIGATION */
+
+#nav ul li a:link, #nav ul li a:visited  {
+	color: #000;
+}
+
+/* BLOG CSS */
+
+.post .categories  {
+	background-color: #256e73;
+	color: #fff;
+}
+
+.post .categories a  {
+	color: #fff;
+}
+
+.post h2.title .date a  {
+	color: #72b0b4;
+}
+
+.post h2.title a  {
+	color: #000;
+}
+
+.post p.comments a  {
+	background: url(spring/comments.jpg) no-repeat center left;
+	color: #000;
+}
+
+p.continue a  {
+	color: #256e73;
+}
+
+#postad  {
+	background-color: #e9f0f1;
+}
+
+a.adlink  {
+	color: #000;
+}
+.asidespost  {
+	border-left: 3px solid #256e73;
+}
+
+#sidebar img.bigad  {
+	border: 2px solid #c4314f;
+}
+
+#tabbox  {
+	border: 1px solid #c63755;
+}
+
+#tabbox ul.idTabs  {
+	background: #f2d2d8;
+}
+
+#tabbox ul.idTabs li a:link, #tabbox ul.idTabs li a:visited  {
+	color: #000;
+}
+
+#tabbox ul.idTabs li a.selected  {
+	color: #fff;
+	background: #8bc62d url(spring/selectedtab.jpg) repeat center center;
+}
+
+#boxes ul  {
+	background: #fff;
+}
+
+#boxes ul li {
+	background: url(spring/tablibg.jpg) no-repeat top left;
+}
+
+#boxes ul li:first-child  {
+	background: none;
+}
+
+#boxes ul li a:link, #boxes ul li a:visited   {
+	color: #000;
+}
+
+#leftwidget  {
+	border-right: 1px solid #dedede;
+}
+
+.widgetlist  h3  {
+	background: url(spring/widgethead.jpg) no-repeat center left;
+	color: #fff;
+}
+
+.widgetlist ul li  {
+	border-bottom: 1px solid #f0f0f0;
+}
+
+.widgetlist ul li a:link, .widgetlist ul li a:visited  {
+	color: #000;
+}
+.commentlist {
+	border-top: 2px solid #EBCDA5;
+}
+.commentlist li {
+	border-bottom: 2px solid #EBCDA5;
+}
+.commentlist .alt {
+	background: #FBE1BE;
+}
+#commentform input {
+	background: #FBE1BE;
+	border: 1px solid #EBCDA5;
+}
+#commentform textarea {
+	background: #FBE1BE;
+	border: 1px solid #EBCDA5;
+}
+/* DROP DOWN PAGE NAVIGATION */
+
+#pagenav li ul li {
+	background: #FBE1BE;
+	border: 1px solid #EBCDA5;
+}
+
+/* GRAVITY FORMS */
+
+.gform_wrapper .top_label input.large, .gform_wrapper .top_label select.large, .gform_wrapper .top_label textarea.textarea, .gform_wrapper input {
+	background: #FBE1BE;
+	border: 1px solid #EBCDA5;
+}

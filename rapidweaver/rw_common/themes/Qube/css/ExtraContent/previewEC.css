@@ -1,0 +1,14 @@
+#EC1Wrapper, .upperHeader, .lowerHeader, #EC7Wrapper {display: block;}
+#EC1Wrapper, #extraContainer1, #extraContainer2, #extraContainer3, #extraContainer4, #extraContainer5, #extraContainer6, #EC7Wrapper, #extraContainer7 {display: block;border: 1px dashed red;background-color: #222;opacity: 0.8;text-shadow: none;}
+#extraContainer2, #extraContainer3 {height: 100%;}
+
+
+#extraContainer1:after {content: "myExtraContent1";color: red;}
+#extraContainer2:after {content: "myExtraContent2";color: red;}
+#extraContainer3:after {content: "myExtraContent3";color: red;}
+#extraContainer4:after {content: "myExtraContent4";color: red;}
+#extraContainer5:after {content: "myExtraContent5";color: red;}
+#extraContainer6:after {content: "myExtraContent6";color: red;}
+#extraContainer7:after {content: "myExtraContent7";color: red;}
+
+#breadcrumbContainer ul {margin-top: 0;}

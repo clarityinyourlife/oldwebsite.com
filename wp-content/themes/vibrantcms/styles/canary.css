@@ -1,0 +1,249 @@
+body  {
+	background: #c8cdd0 url(canary/bg.jpg) repeat-x top left;
+}
+
+h1, h2, h3, h4, h5, h6  {
+	color: #000;
+}
+
+a:link, a:visited  {
+	color: #bf0606;
+}
+
+/* STRUCTURE */
+
+#wrap {
+
+}
+
+#header  {
+	background: #fff url(canary/header.jpg) repeat-x top left;
+	border-bottom: 7px solid #f6f7f7;
+}
+
+#header h1.title a  {
+	color: #000;
+}
+
+#header p.description  {
+	color: #615b4e;
+}
+
+#rss  {
+	background-color: #f0ad11;
+}
+
+#rss a  {
+	color: #fff;
+}
+
+#featured  {
+	background: #e1e6e5 url(canary/featuredbg.jpg) repeat-x top left;
+}
+
+#featured .buttons a.prev  {
+	background: url(canary/prev.jpg) no-repeat top left;
+}
+
+#featured .buttons a.next  {
+	background: url(canary/next.jpg) no-repeat top left;
+}
+
+#steps  {
+	background: #4093ce url(canary/stepsbg.jpg) repeat-x top left;
+}
+
+#steps ul li a  {
+	color: #fff;
+}
+
+#content  {
+	border-top: 7px solid #f6f7f7;
+	border-bottom: 7px solid #f6f7f7;
+	background-color: #fff;
+}
+
+#content .moreinfo  {
+	border: 1px solid #e1e6e5;
+	background-color: #fff;
+	color: #000;
+}
+
+#content .moreinfo h3  {
+	color: #000;	
+}
+
+#content .moreinfo .more a  {
+	color: #bf0606;
+	background: url(canary/moreinfo.jpg) no-repeat center left;
+}
+
+#news  {
+	color: #75818a;
+}
+
+#news h3  {
+	color: #000;
+}
+
+#news ul li a  {
+	color: #bf0606;
+}
+
+#news p.more a  {
+	color: #75818a;
+}
+
+#bottom  {
+	background: #e1e6e5 url(canary/bottombg.jpg) repeat-x top left;
+}
+
+#newsletter h3 {
+	color: #615b4e;
+}
+
+#newsletter  {
+	color: #615b4e;
+}
+
+#newsletter input.text  {
+	background-color: #f9fafa;
+}
+
+#footer  {
+	background: #9fc9e6 url(canary/footerbg.jpg) repeat-x top left;
+	color: #999;
+}
+
+#footer p a  {
+	color: #999;
+}
+
+/* NAVIGATION */
+
+#nav ul li a:link, #nav ul li a:visited  {
+	color: #000;
+}
+
+/* BLOG CSS */
+
+.post .categories  {
+	background-color: #bf0606;
+	color: #fff;
+}
+
+.post .categories a  {
+	color: #fff;
+}
+
+.post h2.title .date a  {
+	color: #a9a9a9;
+}
+
+.post h2.title a  {
+	color: #000;
+}
+
+.post p.comments a  {
+	background: url(canary/comments.jpg) no-repeat center left;
+	color: #000;
+}
+
+p.continue a  {
+	color: #bf0606;
+}
+
+#postad  {
+	background-color: #fcfcfc;
+}
+
+a.adlink  {
+	color: #000;
+}
+.asidespost  {
+	border-left: 3px solid #bf0606;
+}
+
+#sidebar img.bigad  {
+	border: 2px solid #e1e6e5;
+}
+
+#tabbox  {
+	border: 1px solid #f0b018;
+}
+
+#tabbox ul.idTabs  {
+	background: #f8faf9;
+}
+
+#tabbox ul.idTabs li a:link, #tabbox ul.idTabs li a:visited  {
+	color: #000;
+}
+
+#tabbox ul.idTabs li a.selected  {
+	color: #fff;
+	background: #8bc62d url(canary/selectedtab.jpg) repeat center center;
+}
+
+#boxes ul  {
+	background: #fff;
+}
+
+#boxes ul li {
+	background: url(canary/tablibg.jpg) no-repeat top left;
+}
+
+#boxes ul li:first-child  {
+	background: none;
+}
+
+#boxes ul li a:link, #boxes ul li a:visited   {
+	color: #000;
+}
+
+#leftwidget  {
+	border-right: 1px solid #dedede;
+}
+
+.widgetlist  h3  {
+	background: url(canary/widgethead.jpg) no-repeat center left;
+	color: #fff;
+}
+
+.widgetlist ul li  {
+	border-bottom: 1px solid #f0f0f0;
+}
+
+.widgetlist ul li a:link, .widgetlist ul li a:visited  {
+	color: #000;
+}
+.commentlist {
+	border-top: 2px solid #DDDEDE;
+}
+.commentlist li {
+	border-bottom: 2px solid #DDDEDE;
+}
+.commentlist .alt {
+	background: #F2F3F3;
+}
+#commentform input {
+	background: #F2F3F3;
+	border: 1px solid #DDDEDE;
+}
+#commentform textarea {
+	background: #F2F3F3;
+	border: 1px solid #DDDEDE;
+}
+/* DROP DOWN PAGE NAVIGATION */
+
+#pagenav li ul li {
+	background: #F2F3F3;
+	border: 1px solid #DDDEDE;
+}
+
+/* GRAVITY FORMS */
+
+.gform_wrapper .top_label input.large, .gform_wrapper .top_label select.large, .gform_wrapper .top_label textarea.textarea, .gform_wrapper input {
+	background: #F2F3F3;
+	border: 1px solid #DDDEDE;
+}

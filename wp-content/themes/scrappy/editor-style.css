@@ -1,0 +1,120 @@
+/**
+ * @package Scrappy
+ */
+
+.clear {
+	clear: both;
+	width: 100%;
+}
+
+.entry img {
+	max-width: 600px;
+}
+
+img.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	display: inline;
+}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	display: inline;
+}
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+a img {
+	border: none 0px;
+}
+
+body {
+	font-family: Garamond, "Times New Roman", serif;
+	font-size: 16px;
+	color: #333;
+	line-height: 24px;
+	background-color: #fcfbf4;
+}
+table,
+td,
+th {
+	border: 1px solid #603029;
+	vertical-align: top;
+	padding: 5px;
+	font-family: Garamond, "Times New Roman", serif;
+	font-size: 16px;
+}
+th {
+	font-weight: bold;
+	text-align: center;
+	background-color: #603029;
+	color: #fff;
+}
+a:link,
+a:visited,
+a:hover,
+a:active {
+	text-decoration: none;
+	font-weight: bold;
+	color: #e06e5f;
+}
+hr {
+	height: 2px;
+	border-bottom: 1px dashed #e6e1bf;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	width: 90%;
+}
+
+/* Captions */
+dd.wp-caption-text {
+	font-size: 11px;
+}
+.wp-caption {
+	border: 1px solid #ddd;
+	text-align: center;
+	background-color: #fff;
+	padding-top: 4px;
+	margin: 10px;
+	border-radius: 3px;
+	max-width: 640px;
+}
+.wp-caption.aligncenter {
+	margin-left: auto;
+	margin-right: auto;
+}
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+	max-width: 620px;
+}
+.wp-caption .wp-caption-text {
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0 4px 5px;
+	margin: 0;
+	color: #333;
+}

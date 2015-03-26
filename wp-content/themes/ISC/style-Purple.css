@@ -1,0 +1,32 @@
+/*-----------------[HEADER]------------------------*/
+
+.banner span { background-image: url(images/purple/slider-readmore-left.png); }
+.banner span a { background-image: url(images/purple/slider-readmore-right.png); color: #fff; text-shadow: 1px 1px 0px #492378; }
+#logo {background: url(images/purple/iscbanner.jpg)}
+.headerbanr {font-family: 'Nobile', sans-serif;color:#492378;font-size: 52px;position: absolute;margin-top: -110px;margin-left: 84px;}
+.beaderbrnsm {font-family: 'Nobile', sans-serif;color:#492378;font-size:22px;position: absolute;margin-top: -150px;margin-left: 60px;}
+
+/*-----------------[NAV]------------------------*/
+
+#navwrap { background:#8F5AD0 !important; background: -moz-linear-gradient(top, #8F5AD0 0%, #7845B8 100%) !important;background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8F5AD0), color-stop(100%,#7845B8)) !important;background: -webkit-linear-gradient(top, #8F5AD0 0%,#7845B8 100%) !important;background: -o-linear-gradient(top, #8F5AD0 0%,#7845B8 100%) !important;background: -ms-linear-gradient(top, #8F5AD0 0%,#7845B8 100%) !important;background: linear-gradient(to bottom, #8F5AD0 0%,#7845B8 100%) !important;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8f5ad0', endColorstr='#7845b8',GradientType=0 ) !important; background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzhmNWFkMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM3ODQ1YjgiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+) !important;}
+.nav_top { background-image: url(images/purple/nav-top.png); }
+.nav_bottom { background-image: url(images/purple/nav-bottom.png); }
+.nav li ul { background-image: url(images/purple/dropdown-bg.png); background-color: #7845b8;  border-left: 1px solid #64369d; border-right: 1px solid #64369d; border-bottom: 1px solid #64369d; }
+.nav li.current_page_item a, .nav li.current-menu-item a, .nav li.current-category-ancestor a, .nav li.current_page_ancestor a, .nav li.current-post-parent a { color: #ddc9f5;}
+.nav li a { color: #fff; text-shadow: 1px 1px 0px #492378;  }
+.nav li ul li ul { border-top: 1px solid #64369d; }
+
+/*-----------------[HOME]------------------------*/
+
+
+
+/*-----------------[CONTENT]------------------------*/
+
+
+
+/*-----------------[SIDEBAR]------------------------*/
+
+ #formhrbox {
+background:#8F5AD0 !important; background: -moz-linear-gradient(top, #8F5AD0 0%, #7845B8 100%) !important;background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8F5AD0), color-stop(100%,#7845B8)) !important;background: -webkit-linear-gradient(top, #8F5AD0 0%,#7845B8 100%) !important;background: -o-linear-gradient(top, #8F5AD0 0%,#7845B8 100%) !important;background: -ms-linear-gradient(top, #8F5AD0 0%,#7845B8 100%) !important;background: linear-gradient(to bottom, #8F5AD0 0%,#7845B8 100%) !important;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8f5ad0', endColorstr='#7845b8',GradientType=0 ) !important; background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzhmNWFkMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM3ODQ1YjgiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+) !important;}
+
+/*-----------------[FOOTER]------------------------*/

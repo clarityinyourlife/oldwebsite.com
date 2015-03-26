@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scrappy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-05 23:22-0500\n"
+"PO-Revision-Date: 2012-11-05 23:22-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ../languages/\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../archive.php:22
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../archive.php:25
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../archive.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../archive.php:40
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:43
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:46
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:49
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:91
+#: ../search.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: ../archive.php:95
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:40
+#: ../comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:41
+#: ../comments.php:61
+msgid "&laquo; Older Comments"
+msgstr ""
+
+#: ../comments.php:42
+#: ../comments.php:62
+msgid "Newer Comments &raquo;"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-page.php:12
+#: ../content-page.php:21
+#: ../content-single.php:16
+#: ../content-single.php:21
+#: ../content.php:21
+#: ../content.php:33
+#: ../image.php:19
+msgid "Edit"
+msgstr ""
+
+#: ../content-page.php:18
+#: ../content-single.php:27
+#: ../content.php:44
+#: ../image.php:86
+msgid "Pages:"
+msgstr ""
+
+#: ../content-single.php:33
+#: ../content.php:52
+#: ../content.php:62
+msgid ", "
+msgstr ""
+
+#: ../content-single.php:41
+#: ../content-single.php:48
+#, php-format
+msgid "Tags: %2$s"
+msgstr ""
+
+#: ../content-single.php:47
+#: ../content-single.php:50
+#, php-format
+msgid "Categories: %1$s"
+msgstr ""
+
+#: ../content.php:13
+msgid "Permanent Link to"
+msgstr ""
+
+#: ../content.php:43
+msgid "Continue reading <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: ../content.php:56
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content.php:66
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../content.php:72
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content.php:72
+msgid "1 Comment"
+msgstr ""
+
+#: ../content.php:72
+msgid "% Comments"
+msgstr ""
+
+#: ../footer.php:22
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../footer.php:22
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: ../footer.php:22
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../footer.php:24
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: ../functions.php:70
+msgid "Header Navigation Menu"
+msgstr ""
+
+#: ../functions.php:104
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions.php:113
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: ../functions.php:122
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: ../functions.php:131
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: ../header.php:33
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../header.php:62
+msgid "Menu"
+msgstr ""
+
+#: ../header.php:63
+msgid "Skip to content"
+msgstr ""
+
+#: ../image.php:25
+#, php-format
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: ../image.php:38
+msgid "&laquo; Previous"
+msgstr ""
+
+#: ../image.php:39
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../index.php:41
+msgid "No posts to display"
+msgstr ""
+
+#: ../index.php:45
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../searchform.php:10
+#: ../searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: ../searchform.php:11
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../sidebar.php:21
+msgid "Meta"
+msgstr ""
+
+#: ../inc/template-tags.php:26
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:65
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:65
+#: ../inc/template-tags.php:88
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/template-tags.php:75
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:78
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:86
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:115
+#, php-format
+msgid "<a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">Featured</a>"
+msgstr ""
+
+#: ../inc/template-tags.php:120
+#, php-format
+msgid "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../inc/template-tags.php:126
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:43
+msgid "Header Pattern"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:47
+msgid "Support Caroline Themes"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:79
+#: ../inc/theme-options/theme-options.php:80
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:97
+msgid "Stripes"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:101
+msgid "Polkadots"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:105
+msgid "Swirls"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:109
+msgid "Letters"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:113
+msgid "Madras"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:117
+msgid "Flowers"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:160
+msgid "If you enjoy my themes, please consider making a secure donation using the PayPal button to your right. Anything is appreciated!"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:164
+msgid "No, thank you! Dismiss this message."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:171
+msgid "Hide Donate Button"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:223
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
